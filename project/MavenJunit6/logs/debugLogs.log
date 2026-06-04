@@ -1,488 +1,479 @@
-11:42:22.446 INFO  AUTOMATION - BeforeEach: mayores40Test()
-11:42:22.446 INFO  AUTOMATION - BeforeEach: xboxTest()
-11:42:22.446 INFO  AUTOMATION - BeforeEach: encontrarIDTest()
-11:42:22.456 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-11:42:22.461 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-11:42:22.471 INFO  AUTOMATION - Setup padre
-11:42:22.471 INFO  AUTOMATION - Setup padre
-11:42:22.471 INFO  AUTOMATION - Setup padre
-11:42:22.472 INFO  AUTOMATION - Leyendo la lista de clientes
-11:42:22.472 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:42:22.472 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:42:22.483 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-11:42:22.485 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-11:42:22.532 INFO  AUTOMATION - Obteniendo el videojuegos con ID 14
-11:42:22.532 INFO  AUTOMATION - Obteniendo la cantidad de videojuegos de XBOX
-11:42:22.533 INFO  AUTOMATION - Verificando el viedo encontrado
-11:42:22.533 INFO  AUTOMATION - Verificar que la cantidad sea 7
-11:42:22.549 INFO  AUTOMATION - Teardown padre
-11:42:22.550 INFO  AUTOMATION - AfterEach: xboxTest()
-11:42:22.551 INFO  AUTOMATION - Teardown padre
-11:42:22.552 INFO  AUTOMATION - AfterEach: encontrarIDTest()
-11:42:22.570 INFO  AUTOMATION - Test exitoso: xboxTest()
-11:42:22.570 INFO  AUTOMATION - Test exitoso: encontrarIDTest()
-11:42:22.626 INFO  AUTOMATION - BeforeEach: [5] Cliente[id=USR-5, nombre=MIKKI, apellido=FEEST, edad=24, email=MIKKI.FEEST.9@OUTLOOK.COM, pais=VENEZUELA (BOLIVARIAN REPUBLIC OF), universidad=KOEPP UNIVERSITY]
-11:42:22.627 INFO  AUTOMATION - Setup padre
-11:42:22.627 INFO  AUTOMATION - Leyendo la lista de clientes
-11:42:22.641 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-11:42:22.643 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-11:42:22.803 INFO  AUTOMATION - BeforeEach: encontrarIDTest()
-11:42:22.804 INFO  AUTOMATION - Setup padre
-11:42:22.804 INFO  AUTOMATION - BeforeEach: [1] Cliente[id=USR-1, nombre=MAGDALENE, apellido=SAUER, edad=31, email=MAGDALENE.SAUER.26@HOTMAIL.COM, pais=FINLAND, universidad=EAST WILKINSON]
-11:42:22.804 INFO  AUTOMATION - Leyendo la lista de clientes
-11:42:22.804 INFO  AUTOMATION - Setup padre
-11:42:22.805 INFO  AUTOMATION - Leyendo la lista de clientes
-11:42:22.816 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-11:42:22.817 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-11:42:22.818 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-11:42:22.822 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-11:42:23.615 INFO  AUTOMATION - Encontrando al cliente con el ID USR-22
-11:42:23.617 INFO  AUTOMATION - Encontrando mayores de 40
-11:42:23.618 INFO  AUTOMATION - Validar que hayan 17 elementos
-11:42:23.619 INFO  AUTOMATION - Teardown padre
-11:42:23.619 INFO  AUTOMATION - Verificando el cliente encontrado
-11:42:23.619 INFO  AUTOMATION - AfterEach: mayores40Test()
-11:42:23.620 INFO  AUTOMATION - Test exitoso: mayores40Test()
-11:42:23.620 INFO  AUTOMATION - Teardown padre
-11:42:23.620 INFO  AUTOMATION - AfterEach: encontrarIDTest()
-11:42:23.621 INFO  AUTOMATION - Test exitoso: encontrarIDTest()
-11:42:23.630 INFO  AUTOMATION - BeforeEach: [2] Cliente[id=USR-2, nombre=NOLAN, apellido=STANTON, edad=25, email=NOLAN.STANTON.16@HOTMAIL.COM, pais=ESWATINI, universidad=BERNIER COLLEGE]
-11:42:23.631 INFO  AUTOMATION - Setup padre
-11:42:23.631 INFO  AUTOMATION - Leyendo la lista de clientes
-11:42:23.632 INFO  AUTOMATION - BeforeEach: [3] Cliente[id=USR-3, nombre=LEMUEL, apellido=O'CONNER, edad=43, email=LEMUEL.O'CONNER.33@OUTLOOK.COM, pais=PANAMA, universidad=PREDOVIC COLLEGE]
-11:42:23.633 INFO  AUTOMATION - Setup padre
-11:42:23.633 INFO  AUTOMATION - Leyendo la lista de clientes
-11:42:23.639 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-11:42:23.640 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-11:42:23.641 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-11:42:23.642 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-11:42:23.669 INFO  AUTOMATION - Buscando el cliente usando el ID
-11:42:23.669 INFO  AUTOMATION - Buscando el cliente usando el ID
-11:42:23.671 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:23.671 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:23.674 INFO  AUTOMATION - Teardown padre
-11:42:23.675 INFO  AUTOMATION - AfterEach: [5] Cliente[id=USR-5, nombre=MIKKI, apellido=FEEST, edad=24, email=MIKKI.FEEST.9@OUTLOOK.COM, pais=VENEZUELA (BOLIVARIAN REPUBLIC OF), universidad=KOEPP UNIVERSITY]
-11:42:23.676 INFO  AUTOMATION - Test exitoso: [5] Cliente[id=USR-5, nombre=MIKKI, apellido=FEEST, edad=24, email=MIKKI.FEEST.9@OUTLOOK.COM, pais=VENEZUELA (BOLIVARIAN REPUBLIC OF), universidad=KOEPP UNIVERSITY]
-11:42:23.678 INFO  AUTOMATION - Teardown padre
-11:42:23.678 INFO  AUTOMATION - AfterEach: [1] Cliente[id=USR-1, nombre=MAGDALENE, apellido=SAUER, edad=31, email=MAGDALENE.SAUER.26@HOTMAIL.COM, pais=FINLAND, universidad=EAST WILKINSON]
-11:42:23.679 INFO  AUTOMATION - Test exitoso: [1] Cliente[id=USR-1, nombre=MAGDALENE, apellido=SAUER, edad=31, email=MAGDALENE.SAUER.26@HOTMAIL.COM, pais=FINLAND, universidad=EAST WILKINSON]
-11:42:23.689 INFO  AUTOMATION - Buscando el cliente usando el ID
-11:42:23.690 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:23.691 INFO  AUTOMATION - Teardown padre
-11:42:23.692 INFO  AUTOMATION - Buscando el cliente usando el ID
-11:42:23.692 INFO  AUTOMATION - AfterEach: [3] Cliente[id=USR-3, nombre=LEMUEL, apellido=O'CONNER, edad=43, email=LEMUEL.O'CONNER.33@OUTLOOK.COM, pais=PANAMA, universidad=PREDOVIC COLLEGE]
-11:42:23.693 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:23.693 INFO  AUTOMATION - Teardown padre
-11:42:23.693 INFO  AUTOMATION - AfterEach: [2] Cliente[id=USR-2, nombre=NOLAN, apellido=STANTON, edad=25, email=NOLAN.STANTON.16@HOTMAIL.COM, pais=ESWATINI, universidad=BERNIER COLLEGE]
-11:42:23.694 INFO  AUTOMATION - Test exitoso: [3] Cliente[id=USR-3, nombre=LEMUEL, apellido=O'CONNER, edad=43, email=LEMUEL.O'CONNER.33@OUTLOOK.COM, pais=PANAMA, universidad=PREDOVIC COLLEGE]
-11:42:23.694 INFO  AUTOMATION - Test exitoso: [2] Cliente[id=USR-2, nombre=NOLAN, apellido=STANTON, edad=25, email=NOLAN.STANTON.16@HOTMAIL.COM, pais=ESWATINI, universidad=BERNIER COLLEGE]
-11:42:23.697 INFO  AUTOMATION - BeforeEach: [6] Videojuego[id=6, nombre=FINAL FANTASY XVI, epoca=2002, precio=59.54, duracion=36, genero=TERROR, empresa=XBOX]
-11:42:23.698 INFO  AUTOMATION - Setup padre
-11:42:23.698 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:42:23.711 INFO  AUTOMATION - BeforeEach: [1] Videojuego[id=1, nombre=ASSASSIN'S CREED VALHALLA, epoca=2000, precio=59.22, duracion=48, genero=COMEDIA, empresa=NINTENDO]
-11:42:23.711 INFO  AUTOMATION - BeforeEach: [2] Videojuego[id=2, nombre=BEYOND GOOD & EVIL 2, epoca=2014, precio=58.15, duracion=23, genero=ACCION, empresa=XBOX]
-11:42:23.711 INFO  AUTOMATION - Setup padre
-11:42:23.711 INFO  AUTOMATION - Setup padre
-11:42:23.712 INFO  AUTOMATION - BeforeEach: [4] Cliente[id=USR-4, nombre=KERSTIN, apellido=KERTZMANN, edad=49, email=KERSTIN.KERTZMANN.8@APPLE.COM, pais=ESWATINI, universidad=SOUTHERN ORTIZ COLLEGE]
-11:42:23.712 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:42:23.712 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:42:23.712 INFO  AUTOMATION - Setup padre
-11:42:23.713 INFO  AUTOMATION - Leyendo la lista de clientes
-11:42:23.716 INFO  AUTOMATION - Buscando el videojuego usando el ID
-11:42:23.716 INFO  AUTOMATION - Buscando el videojuego usando el ID
-11:42:23.716 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:23.716 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:23.718 INFO  AUTOMATION - Teardown padre
-11:42:23.719 INFO  AUTOMATION - AfterEach: [1] Videojuego[id=1, nombre=ASSASSIN'S CREED VALHALLA, epoca=2000, precio=59.22, duracion=48, genero=COMEDIA, empresa=NINTENDO]
-11:42:23.718 INFO  AUTOMATION - Teardown padre
-11:42:23.719 INFO  AUTOMATION - AfterEach: [2] Videojuego[id=2, nombre=BEYOND GOOD & EVIL 2, epoca=2014, precio=58.15, duracion=23, genero=ACCION, empresa=XBOX]
-11:42:23.719 INFO  AUTOMATION - Test exitoso: [1] Videojuego[id=1, nombre=ASSASSIN'S CREED VALHALLA, epoca=2000, precio=59.22, duracion=48, genero=COMEDIA, empresa=NINTENDO]
-11:42:23.719 INFO  AUTOMATION - Test exitoso: [2] Videojuego[id=2, nombre=BEYOND GOOD & EVIL 2, epoca=2014, precio=58.15, duracion=23, genero=ACCION, empresa=XBOX]
-11:42:23.724 INFO  AUTOMATION - Buscando el videojuego usando el ID
-11:42:23.724 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:23.725 INFO  AUTOMATION - Teardown padre
-11:42:23.725 INFO  AUTOMATION - AfterEach: [6] Videojuego[id=6, nombre=FINAL FANTASY XVI, epoca=2002, precio=59.54, duracion=36, genero=TERROR, empresa=XBOX]
-11:42:23.728 INFO  AUTOMATION - BeforeEach: [4] Videojuego[id=4, nombre=DEAD ISLAND 2, epoca=2020, precio=55.05, duracion=45, genero=COMEDIA, empresa=XBOX]
-11:42:23.729 INFO  AUTOMATION - BeforeEach: [3] Videojuego[id=3, nombre=BLUE PROTOCOL, epoca=2008, precio=57.45, duracion=60, genero=TERROR, empresa=XBOX]
-11:42:23.731 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-11:42:23.732 INFO  AUTOMATION - BeforeEach: [11] Cliente[id=USR-11, nombre=NICOLLE, apellido=SENGER, edad=43, email=NICOLLE.SENGER.27@APPLE.COM, pais=BHUTAN, universidad=THE WISOKY]
-11:42:23.744 INFO  AUTOMATION - Setup padre
-11:42:23.744 INFO  AUTOMATION - Test exitoso: [6] Videojuego[id=6, nombre=FINAL FANTASY XVI, epoca=2002, precio=59.54, duracion=36, genero=TERROR, empresa=XBOX]
-11:42:23.745 INFO  AUTOMATION - Leyendo la lista de clientes
-11:42:23.746 INFO  AUTOMATION - Setup padre
-11:42:23.746 INFO  AUTOMATION - Setup padre
-11:42:23.746 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:42:23.746 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:42:23.747 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-11:42:23.749 INFO  AUTOMATION - Buscando el videojuego usando el ID
-11:42:23.749 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:23.750 INFO  AUTOMATION - Buscando el videojuego usando el ID
-11:42:23.750 INFO  AUTOMATION - Teardown padre
-11:42:23.750 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:23.750 INFO  AUTOMATION - AfterEach: [3] Videojuego[id=3, nombre=BLUE PROTOCOL, epoca=2008, precio=57.45, duracion=60, genero=TERROR, empresa=XBOX]
-11:42:23.750 INFO  AUTOMATION - Teardown padre
-11:42:23.750 INFO  AUTOMATION - Test exitoso: [3] Videojuego[id=3, nombre=BLUE PROTOCOL, epoca=2008, precio=57.45, duracion=60, genero=TERROR, empresa=XBOX]
-11:42:23.751 INFO  AUTOMATION - AfterEach: [4] Videojuego[id=4, nombre=DEAD ISLAND 2, epoca=2020, precio=55.05, duracion=45, genero=COMEDIA, empresa=XBOX]
-11:42:23.751 INFO  AUTOMATION - Test exitoso: [4] Videojuego[id=4, nombre=DEAD ISLAND 2, epoca=2020, precio=55.05, duracion=45, genero=COMEDIA, empresa=XBOX]
-11:42:23.770 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-11:42:23.771 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-11:42:23.810 INFO  AUTOMATION - Buscando el cliente usando el ID
-11:42:23.811 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:23.811 INFO  AUTOMATION - Teardown padre
-11:42:23.812 INFO  AUTOMATION - AfterEach: [4] Cliente[id=USR-4, nombre=KERSTIN, apellido=KERTZMANN, edad=49, email=KERSTIN.KERTZMANN.8@APPLE.COM, pais=ESWATINI, universidad=SOUTHERN ORTIZ COLLEGE]
-11:42:23.812 INFO  AUTOMATION - Test exitoso: [4] Cliente[id=USR-4, nombre=KERSTIN, apellido=KERTZMANN, edad=49, email=KERSTIN.KERTZMANN.8@APPLE.COM, pais=ESWATINI, universidad=SOUTHERN ORTIZ COLLEGE]
-11:42:23.838 INFO  AUTOMATION - BeforeEach: [5] Videojuego[id=5, nombre=ELDEN RING, epoca=2011, precio=56.7, duracion=14, genero=COMEDIA, empresa=XBOX]
-11:42:23.838 INFO  AUTOMATION - Setup padre
-11:42:23.839 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:42:23.841 INFO  AUTOMATION - Buscando el videojuego usando el ID
-11:42:23.842 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:23.842 INFO  AUTOMATION - Teardown padre
-11:42:23.842 INFO  AUTOMATION - AfterEach: [5] Videojuego[id=5, nombre=ELDEN RING, epoca=2011, precio=56.7, duracion=14, genero=COMEDIA, empresa=XBOX]
-11:42:23.843 INFO  AUTOMATION - Test exitoso: [5] Videojuego[id=5, nombre=ELDEN RING, epoca=2011, precio=56.7, duracion=14, genero=COMEDIA, empresa=XBOX]
-11:42:23.847 INFO  AUTOMATION - BeforeEach: [7] Videojuego[id=7, nombre=GOD OF WAR: RAGNAROK, epoca=2012, precio=53.29, duracion=44, genero=ACCION, empresa=PLAYSTATION]
-11:42:23.847 INFO  AUTOMATION - BeforeEach: [13] Videojuego[id=13, nombre=MARIO BROS, epoca=2007, precio=55.64, duracion=28, genero=COMEDIA, empresa=PLAYSTATION]
-11:42:23.849 INFO  AUTOMATION - BeforeEach: [6] Cliente[id=USR-6, nombre=CLAYTON, apellido=RUSSEL, edad=47, email=CLAYTON.RUSSEL.31@HOTMAIL.COM, pais=CANADA, universidad=LINDGREN INSTITUTE]
-11:42:23.850 INFO  AUTOMATION - BeforeEach: [8] Videojuego[id=8, nombre=GRANBLUE FANTASY: RELINK, epoca=2019, precio=55.43, duracion=37, genero=ACCION, empresa=PLAYSTATION]
-11:42:23.850 INFO  AUTOMATION - Setup padre
-11:42:23.850 INFO  AUTOMATION - Setup padre
-11:42:23.851 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:42:23.851 INFO  AUTOMATION - Setup padre
-11:42:23.852 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:42:23.852 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:42:23.854 INFO  AUTOMATION - Buscando el videojuego usando el ID
-11:42:23.854 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:23.855 INFO  AUTOMATION - Teardown padre
-11:42:23.855 INFO  AUTOMATION - AfterEach: [8] Videojuego[id=8, nombre=GRANBLUE FANTASY: RELINK, epoca=2019, precio=55.43, duracion=37, genero=ACCION, empresa=PLAYSTATION]
-11:42:23.855 INFO  AUTOMATION - Test exitoso: [8] Videojuego[id=8, nombre=GRANBLUE FANTASY: RELINK, epoca=2019, precio=55.43, duracion=37, genero=ACCION, empresa=PLAYSTATION]
-11:42:23.856 INFO  AUTOMATION - Buscando el videojuego usando el ID
-11:42:23.832 INFO  AUTOMATION - Buscando el cliente usando el ID
-11:42:23.856 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:23.856 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:23.857 INFO  AUTOMATION - Teardown padre
-11:42:23.857 INFO  AUTOMATION - AfterEach: [11] Cliente[id=USR-11, nombre=NICOLLE, apellido=SENGER, edad=43, email=NICOLLE.SENGER.27@APPLE.COM, pais=BHUTAN, universidad=THE WISOKY]
-11:42:23.858 INFO  AUTOMATION - Test exitoso: [11] Cliente[id=USR-11, nombre=NICOLLE, apellido=SENGER, edad=43, email=NICOLLE.SENGER.27@APPLE.COM, pais=BHUTAN, universidad=THE WISOKY]
-11:42:23.858 INFO  AUTOMATION - Buscando el videojuego usando el ID
-11:42:23.859 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:23.860 INFO  AUTOMATION - Teardown padre
-11:42:23.860 INFO  AUTOMATION - AfterEach: [7] Videojuego[id=7, nombre=GOD OF WAR: RAGNAROK, epoca=2012, precio=53.29, duracion=44, genero=ACCION, empresa=PLAYSTATION]
-11:42:23.860 INFO  AUTOMATION - Test exitoso: [7] Videojuego[id=7, nombre=GOD OF WAR: RAGNAROK, epoca=2012, precio=53.29, duracion=44, genero=ACCION, empresa=PLAYSTATION]
-11:42:23.864 INFO  AUTOMATION - BeforeEach: [9] Videojuego[id=9, nombre=GRAND THEFT AUTO V, epoca=2004, precio=60.0, duracion=19, genero=ACCION, empresa=XBOX]
-11:42:23.865 INFO  AUTOMATION - Teardown padre
-11:42:23.865 INFO  AUTOMATION - Setup padre
-11:42:23.865 INFO  AUTOMATION - AfterEach: [13] Videojuego[id=13, nombre=MARIO BROS, epoca=2007, precio=55.64, duracion=28, genero=COMEDIA, empresa=PLAYSTATION]
-11:42:23.865 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:42:23.865 INFO  AUTOMATION - Test exitoso: [13] Videojuego[id=13, nombre=MARIO BROS, epoca=2007, precio=55.64, duracion=28, genero=COMEDIA, empresa=PLAYSTATION]
-11:42:23.868 INFO  AUTOMATION - Setup padre
-11:42:23.868 INFO  AUTOMATION - Leyendo la lista de clientes
-11:42:23.869 INFO  AUTOMATION - Buscando el videojuego usando el ID
-11:42:23.869 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:23.869 INFO  AUTOMATION - Teardown padre
-11:42:23.869 INFO  AUTOMATION - AfterEach: [9] Videojuego[id=9, nombre=GRAND THEFT AUTO V, epoca=2004, precio=60.0, duracion=19, genero=ACCION, empresa=XBOX]
-11:42:23.870 INFO  AUTOMATION - Test exitoso: [9] Videojuego[id=9, nombre=GRAND THEFT AUTO V, epoca=2004, precio=60.0, duracion=19, genero=ACCION, empresa=XBOX]
-11:42:23.888 INFO  AUTOMATION - BeforeEach: [10] Videojuego[id=10, nombre=HIGH ON LIFE, epoca=2008, precio=55.51, duracion=47, genero=TERROR, empresa=NINTENDO]
-11:42:23.888 INFO  AUTOMATION - Setup padre
-11:42:23.889 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:42:23.889 INFO  AUTOMATION - BeforeEach: [13] Cliente[id=USR-13, nombre=DELPHA, apellido=REICHERT, edad=34, email=DELPHA.REICHERT.15@HOTMAIL.COM, pais=AFGHANISTAN, universidad=EAST PROSACCO]
-11:42:23.890 INFO  AUTOMATION - Setup padre
-11:42:23.890 INFO  AUTOMATION - Leyendo la lista de clientes
-11:42:23.892 INFO  AUTOMATION - Buscando el videojuego usando el ID
-11:42:23.892 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:23.893 INFO  AUTOMATION - Teardown padre
-11:42:23.893 INFO  AUTOMATION - AfterEach: [10] Videojuego[id=10, nombre=HIGH ON LIFE, epoca=2008, precio=55.51, duracion=47, genero=TERROR, empresa=NINTENDO]
-11:42:23.893 INFO  AUTOMATION - BeforeEach: [11] Videojuego[id=11, nombre=HOGWARTS LEGACY, epoca=2011, precio=55.74, duracion=24, genero=COMEDIA, empresa=NINTENDO]
-11:42:23.893 INFO  AUTOMATION - Test exitoso: [10] Videojuego[id=10, nombre=HIGH ON LIFE, epoca=2008, precio=55.51, duracion=47, genero=TERROR, empresa=NINTENDO]
-11:42:23.894 INFO  AUTOMATION - Setup padre
-11:42:23.894 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:42:23.898 INFO  AUTOMATION - Buscando el videojuego usando el ID
-11:42:23.898 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:23.899 INFO  AUTOMATION - Teardown padre
-11:42:23.899 INFO  AUTOMATION - AfterEach: [11] Videojuego[id=11, nombre=HOGWARTS LEGACY, epoca=2011, precio=55.74, duracion=24, genero=COMEDIA, empresa=NINTENDO]
-11:42:23.900 INFO  AUTOMATION - Test exitoso: [11] Videojuego[id=11, nombre=HOGWARTS LEGACY, epoca=2011, precio=55.74, duracion=24, genero=COMEDIA, empresa=NINTENDO]
-11:42:23.905 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-11:42:23.911 INFO  AUTOMATION - BeforeEach: [18] Videojuego[id=18, nombre=THE WITCHER 3: WILD HUNT, epoca=2000, precio=56.42, duracion=45, genero=TERROR, empresa=PLAYSTATION]
-11:42:23.912 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-11:42:23.912 INFO  AUTOMATION - Setup padre
-11:42:23.912 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:42:23.912 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-11:42:23.913 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-11:42:23.915 INFO  AUTOMATION - Buscando el videojuego usando el ID
-11:42:23.915 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:23.916 INFO  AUTOMATION - Teardown padre
-11:42:23.916 INFO  AUTOMATION - AfterEach: [18] Videojuego[id=18, nombre=THE WITCHER 3: WILD HUNT, epoca=2000, precio=56.42, duracion=45, genero=TERROR, empresa=PLAYSTATION]
-11:42:23.916 INFO  AUTOMATION - Test exitoso: [18] Videojuego[id=18, nombre=THE WITCHER 3: WILD HUNT, epoca=2000, precio=56.42, duracion=45, genero=TERROR, empresa=PLAYSTATION]
-11:42:23.931 INFO  AUTOMATION - BeforeEach: [12] Videojuego[id=12, nombre=HOLLOW KNIGHT: SILKSONG, epoca=2001, precio=53.81, duracion=14, genero=COMEDIA, empresa=NINTENDO]
-11:42:23.932 INFO  AUTOMATION - Setup padre
-11:42:23.932 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:42:23.935 INFO  AUTOMATION - Buscando el videojuego usando el ID
-11:42:23.935 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:23.935 INFO  AUTOMATION - Teardown padre
-11:42:23.936 INFO  AUTOMATION - AfterEach: [12] Videojuego[id=12, nombre=HOLLOW KNIGHT: SILKSONG, epoca=2001, precio=53.81, duracion=14, genero=COMEDIA, empresa=NINTENDO]
-11:42:23.936 INFO  AUTOMATION - Test exitoso: [12] Videojuego[id=12, nombre=HOLLOW KNIGHT: SILKSONG, epoca=2001, precio=53.81, duracion=14, genero=COMEDIA, empresa=NINTENDO]
-11:42:23.940 INFO  AUTOMATION - BeforeEach: [14] Videojuego[id=14, nombre=METROID PRIME 4, epoca=2013, precio=59.2, duracion=7, genero=ACCION, empresa=NINTENDO]
-11:42:23.940 INFO  AUTOMATION - Setup padre
-11:42:23.940 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:42:23.943 INFO  AUTOMATION - Buscando el videojuego usando el ID
-11:42:23.943 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:23.943 INFO  AUTOMATION - Teardown padre
-11:42:23.944 INFO  AUTOMATION - AfterEach: [14] Videojuego[id=14, nombre=METROID PRIME 4, epoca=2013, precio=59.2, duracion=7, genero=ACCION, empresa=NINTENDO]
-11:42:23.945 INFO  AUTOMATION - Test exitoso: [14] Videojuego[id=14, nombre=METROID PRIME 4, epoca=2013, precio=59.2, duracion=7, genero=ACCION, empresa=NINTENDO]
-11:42:23.950 INFO  AUTOMATION - BeforeEach: [15] Videojuego[id=15, nombre=STAR CITIZEN, epoca=2009, precio=54.57, duracion=21, genero=ACCION, empresa=NINTENDO]
-11:42:23.950 INFO  AUTOMATION - Setup padre
-11:42:23.951 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:42:23.952 INFO  AUTOMATION - BeforeEach: [7] Cliente[id=USR-7, nombre=MEAGAN, apellido=CORWIN, edad=23, email=MEAGAN.CORWIN.30@APPLE.COM, pais=UNITED ARAB EMIRATES, universidad=WESTERN TERRY ACADEMY]
-11:42:23.952 INFO  AUTOMATION - Setup padre
-11:42:23.953 INFO  AUTOMATION - Leyendo la lista de clientes
-11:42:23.953 INFO  AUTOMATION - Buscando el videojuego usando el ID
-11:42:23.954 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:23.954 INFO  AUTOMATION - Teardown padre
-11:42:23.954 INFO  AUTOMATION - AfterEach: [15] Videojuego[id=15, nombre=STAR CITIZEN, epoca=2009, precio=54.57, duracion=21, genero=ACCION, empresa=NINTENDO]
-11:42:23.955 INFO  AUTOMATION - Test exitoso: [15] Videojuego[id=15, nombre=STAR CITIZEN, epoca=2009, precio=54.57, duracion=21, genero=ACCION, empresa=NINTENDO]
-11:42:23.962 INFO  AUTOMATION - BeforeEach: [16] Videojuego[id=16, nombre=THE CALLISTO PROTOCOL, epoca=2010, precio=57.93, duracion=37, genero=ACCION, empresa=PLAYSTATION]
-11:42:23.962 INFO  AUTOMATION - BeforeEach: [17] Videojuego[id=17, nombre=THE LEGEND OF ZELDA, epoca=2011, precio=61.23, duracion=60, genero=COMEDIA, empresa=NINTENDO]
-11:42:23.962 INFO  AUTOMATION - Setup padre
-11:42:23.962 INFO  AUTOMATION - Setup padre
-11:42:23.962 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-11:42:23.962 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:42:23.962 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:42:23.964 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-11:42:23.965 INFO  AUTOMATION - Buscando el videojuego usando el ID
-11:42:23.965 INFO  AUTOMATION - Buscando el videojuego usando el ID
-11:42:23.965 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:23.965 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:23.966 INFO  AUTOMATION - Teardown padre
-11:42:23.966 INFO  AUTOMATION - Teardown padre
-11:42:23.966 INFO  AUTOMATION - AfterEach: [16] Videojuego[id=16, nombre=THE CALLISTO PROTOCOL, epoca=2010, precio=57.93, duracion=37, genero=ACCION, empresa=PLAYSTATION]
-11:42:23.966 INFO  AUTOMATION - AfterEach: [17] Videojuego[id=17, nombre=THE LEGEND OF ZELDA, epoca=2011, precio=61.23, duracion=60, genero=COMEDIA, empresa=NINTENDO]
-11:42:23.966 INFO  AUTOMATION - Test exitoso: [17] Videojuego[id=17, nombre=THE LEGEND OF ZELDA, epoca=2011, precio=61.23, duracion=60, genero=COMEDIA, empresa=NINTENDO]
-11:42:23.966 INFO  AUTOMATION - Test exitoso: [16] Videojuego[id=16, nombre=THE CALLISTO PROTOCOL, epoca=2010, precio=57.93, duracion=37, genero=ACCION, empresa=PLAYSTATION]
-11:42:23.974 INFO  AUTOMATION - BeforeEach: [19] Videojuego[id=19, nombre=VALHEIM, epoca=2013, precio=54.95, duracion=6, genero=COMEDIA, empresa=XBOX]
-11:42:23.975 INFO  AUTOMATION - Setup padre
-11:42:23.975 INFO  AUTOMATION - BeforeEach: [20] Videojuego[id=20, nombre=FZERO, epoca=2001, precio=9.99, duracion=15, genero=TERROR, empresa=NINTENDO]
-11:42:23.975 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:42:23.975 INFO  AUTOMATION - Setup padre
-11:42:23.975 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:42:23.977 INFO  AUTOMATION - Buscando el videojuego usando el ID
-11:42:23.977 INFO  AUTOMATION - Buscando el videojuego usando el ID
-11:42:23.978 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:23.978 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:23.978 INFO  AUTOMATION - Teardown padre
-11:42:23.978 INFO  AUTOMATION - Teardown padre
-11:42:23.978 INFO  AUTOMATION - AfterEach: [19] Videojuego[id=19, nombre=VALHEIM, epoca=2013, precio=54.95, duracion=6, genero=COMEDIA, empresa=XBOX]
-11:42:23.978 INFO  AUTOMATION - AfterEach: [20] Videojuego[id=20, nombre=FZERO, epoca=2001, precio=9.99, duracion=15, genero=TERROR, empresa=NINTENDO]
-11:42:23.978 INFO  AUTOMATION - Test exitoso: [19] Videojuego[id=19, nombre=VALHEIM, epoca=2013, precio=54.95, duracion=6, genero=COMEDIA, empresa=XBOX]
-11:42:23.978 INFO  AUTOMATION - Test exitoso: [20] Videojuego[id=20, nombre=FZERO, epoca=2001, precio=9.99, duracion=15, genero=TERROR, empresa=NINTENDO]
-11:42:24.006 INFO  AUTOMATION - Buscando el cliente usando el ID
-11:42:24.006 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:24.007 INFO  AUTOMATION - Teardown padre
-11:42:24.008 INFO  AUTOMATION - AfterEach: [6] Cliente[id=USR-6, nombre=CLAYTON, apellido=RUSSEL, edad=47, email=CLAYTON.RUSSEL.31@HOTMAIL.COM, pais=CANADA, universidad=LINDGREN INSTITUTE]
-11:42:24.009 INFO  AUTOMATION - Test exitoso: [6] Cliente[id=USR-6, nombre=CLAYTON, apellido=RUSSEL, edad=47, email=CLAYTON.RUSSEL.31@HOTMAIL.COM, pais=CANADA, universidad=LINDGREN INSTITUTE]
-11:42:24.016 INFO  AUTOMATION - Buscando el cliente usando el ID
-11:42:24.017 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:24.017 INFO  AUTOMATION - BeforeEach: [8] Cliente[id=USR-8, nombre=TONYA, apellido=HAMMES, edad=46, email=TONYA.HAMMES.28@APPLE.COM, pais=COLOMBIA, universidad=NORTHERN REICHERT INSTITUTE]
-11:42:24.017 INFO  AUTOMATION - Teardown padre
-11:42:24.017 INFO  AUTOMATION - AfterEach: [7] Cliente[id=USR-7, nombre=MEAGAN, apellido=CORWIN, edad=23, email=MEAGAN.CORWIN.30@APPLE.COM, pais=UNITED ARAB EMIRATES, universidad=WESTERN TERRY ACADEMY]
-11:42:24.017 INFO  AUTOMATION - Setup padre
-11:42:24.017 INFO  AUTOMATION - Leyendo la lista de clientes
-11:42:24.018 INFO  AUTOMATION - Test exitoso: [7] Cliente[id=USR-7, nombre=MEAGAN, apellido=CORWIN, edad=23, email=MEAGAN.CORWIN.30@APPLE.COM, pais=UNITED ARAB EMIRATES, universidad=WESTERN TERRY ACADEMY]
-11:42:24.021 INFO  AUTOMATION - BeforeEach: [9] Cliente[id=USR-9, nombre=EDUARDO, apellido=HARBER, edad=43, email=EDUARDO.HARBER.41@GMAIL.COM, pais=CABO VERDE, universidad=NORTH ZIEMANN]
-11:42:24.021 INFO  AUTOMATION - Setup padre
-11:42:24.022 INFO  AUTOMATION - Leyendo la lista de clientes
-11:42:24.024 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-11:42:24.024 INFO  AUTOMATION - Buscando el cliente usando el ID
-11:42:24.024 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:24.025 INFO  AUTOMATION - Teardown padre
-11:42:24.025 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-11:42:24.025 INFO  AUTOMATION - AfterEach: [13] Cliente[id=USR-13, nombre=DELPHA, apellido=REICHERT, edad=34, email=DELPHA.REICHERT.15@HOTMAIL.COM, pais=AFGHANISTAN, universidad=EAST PROSACCO]
-11:42:24.028 INFO  AUTOMATION - Test exitoso: [13] Cliente[id=USR-13, nombre=DELPHA, apellido=REICHERT, edad=34, email=DELPHA.REICHERT.15@HOTMAIL.COM, pais=AFGHANISTAN, universidad=EAST PROSACCO]
-11:42:24.031 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-11:42:24.033 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-11:42:24.050 INFO  AUTOMATION - BeforeEach: [10] Cliente[id=USR-10, nombre=TYRONE, apellido=MILLS, edad=49, email=TYRONE.MILLS.45@GMAIL.COM, pais=PARAGUAY, universidad=SOUTHERN ROHAN UNIVERSITY]
-11:42:24.051 INFO  AUTOMATION - Setup padre
-11:42:24.051 INFO  AUTOMATION - Leyendo la lista de clientes
-11:42:24.059 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-11:42:24.060 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-11:42:24.067 INFO  AUTOMATION - Buscando el cliente usando el ID
-11:42:24.067 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:24.067 INFO  AUTOMATION - Teardown padre
-11:42:24.068 INFO  AUTOMATION - AfterEach: [8] Cliente[id=USR-8, nombre=TONYA, apellido=HAMMES, edad=46, email=TONYA.HAMMES.28@APPLE.COM, pais=COLOMBIA, universidad=NORTHERN REICHERT INSTITUTE]
-11:42:24.068 INFO  AUTOMATION - Test exitoso: [8] Cliente[id=USR-8, nombre=TONYA, apellido=HAMMES, edad=46, email=TONYA.HAMMES.28@APPLE.COM, pais=COLOMBIA, universidad=NORTHERN REICHERT INSTITUTE]
-11:42:24.086 INFO  AUTOMATION - BeforeEach: [18] Cliente[id=USR-18, nombre=RODGER, apellido=ANDERSON, edad=38, email=RODGER.ANDERSON.44@HOTMAIL.COM, pais=TANZANIA, UNITED REPUBLIC OF, universidad=HESSEL COLLEGE]
-11:42:24.087 INFO  AUTOMATION - Setup padre
-11:42:24.087 INFO  AUTOMATION - Leyendo la lista de clientes
-11:42:24.092 INFO  AUTOMATION - Buscando el cliente usando el ID
-11:42:24.092 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:24.093 INFO  AUTOMATION - Teardown padre
-11:42:24.093 INFO  AUTOMATION - AfterEach: [9] Cliente[id=USR-9, nombre=EDUARDO, apellido=HARBER, edad=43, email=EDUARDO.HARBER.41@GMAIL.COM, pais=CABO VERDE, universidad=NORTH ZIEMANN]
-11:42:24.093 INFO  AUTOMATION - Test exitoso: [9] Cliente[id=USR-9, nombre=EDUARDO, apellido=HARBER, edad=43, email=EDUARDO.HARBER.41@GMAIL.COM, pais=CABO VERDE, universidad=NORTH ZIEMANN]
-11:42:24.098 INFO  AUTOMATION - BeforeEach: [12] Cliente[id=USR-12, nombre=CARTER, apellido=GREENFELDER, edad=44, email=CARTER.GREENFELDER.24@GMAIL.COM, pais=RUSSIAN FEDERATION, universidad=CORKERY ACADEMY]
-11:42:24.098 INFO  AUTOMATION - Setup padre
-11:42:24.099 INFO  AUTOMATION - Leyendo la lista de clientes
-11:42:24.103 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-11:42:24.104 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-11:42:24.105 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-11:42:24.105 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-11:42:24.112 INFO  AUTOMATION - Buscando el cliente usando el ID
-11:42:24.112 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:24.112 INFO  AUTOMATION - BeforeEach: [14] Cliente[id=USR-14, nombre=NESTOR, apellido=DENESIK, edad=48, email=NESTOR.DENESIK.14@OUTLOOK.COM, pais=BAHRAIN, universidad=EASTERN BEIER]
-11:42:24.113 INFO  AUTOMATION - Setup padre
-11:42:24.113 INFO  AUTOMATION - Leyendo la lista de clientes
-11:42:24.112 INFO  AUTOMATION - Teardown padre
-11:42:24.117 INFO  AUTOMATION - AfterEach: [10] Cliente[id=USR-10, nombre=TYRONE, apellido=MILLS, edad=49, email=TYRONE.MILLS.45@GMAIL.COM, pais=PARAGUAY, universidad=SOUTHERN ROHAN UNIVERSITY]
-11:42:24.117 INFO  AUTOMATION - Test exitoso: [10] Cliente[id=USR-10, nombre=TYRONE, apellido=MILLS, edad=49, email=TYRONE.MILLS.45@GMAIL.COM, pais=PARAGUAY, universidad=SOUTHERN ROHAN UNIVERSITY]
-11:42:24.120 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-11:42:24.121 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-11:42:24.132 INFO  AUTOMATION - BeforeEach: [15] Cliente[id=USR-15, nombre=MADDIE, apellido=HAMILL, edad=44, email=MADDIE.HAMILL.20@OUTLOOK.COM, pais=SOUTH SUDAN, universidad=EASTERN DONNELLY]
-11:42:24.132 INFO  AUTOMATION - Setup padre
-11:42:24.132 INFO  AUTOMATION - Leyendo la lista de clientes
-11:42:24.139 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-11:42:24.140 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-11:42:24.153 INFO  AUTOMATION - Buscando el cliente usando el ID
-11:42:24.153 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:24.153 INFO  AUTOMATION - Teardown padre
-11:42:24.154 INFO  AUTOMATION - AfterEach: [12] Cliente[id=USR-12, nombre=CARTER, apellido=GREENFELDER, edad=44, email=CARTER.GREENFELDER.24@GMAIL.COM, pais=RUSSIAN FEDERATION, universidad=CORKERY ACADEMY]
-11:42:24.154 INFO  AUTOMATION - Test exitoso: [12] Cliente[id=USR-12, nombre=CARTER, apellido=GREENFELDER, edad=44, email=CARTER.GREENFELDER.24@GMAIL.COM, pais=RUSSIAN FEDERATION, universidad=CORKERY ACADEMY]
-11:42:24.162 INFO  AUTOMATION - BeforeEach: [17] Cliente[id=USR-17, nombre=ANGELIQUE, apellido=DURGAN, edad=52, email=ANGELIQUE.DURGAN.31@HOTMAIL.COM, pais=SERBIA, universidad=NORTHERN NEBRASKA ACADEMY]
-11:42:24.162 INFO  AUTOMATION - Setup padre
-11:42:24.162 INFO  AUTOMATION - Leyendo la lista de clientes
-11:42:24.174 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-11:42:24.175 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-11:42:24.184 INFO  AUTOMATION - Buscando el cliente usando el ID
-11:42:24.184 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:24.185 INFO  AUTOMATION - Teardown padre
-11:42:24.185 INFO  AUTOMATION - AfterEach: [15] Cliente[id=USR-15, nombre=MADDIE, apellido=HAMILL, edad=44, email=MADDIE.HAMILL.20@OUTLOOK.COM, pais=SOUTH SUDAN, universidad=EASTERN DONNELLY]
-11:42:24.185 INFO  AUTOMATION - Test exitoso: [15] Cliente[id=USR-15, nombre=MADDIE, apellido=HAMILL, edad=44, email=MADDIE.HAMILL.20@OUTLOOK.COM, pais=SOUTH SUDAN, universidad=EASTERN DONNELLY]
-11:42:24.207 INFO  AUTOMATION - BeforeEach: [16] Cliente[id=USR-16, nombre=TRACEY, apellido=LANGOSH, edad=47, email=TRACEY.LANGOSH.15@APPLE.COM, pais=GUYANA, universidad=HOPPE INSTITUTE]
-11:42:24.207 INFO  AUTOMATION - Setup padre
-11:42:24.207 INFO  AUTOMATION - Leyendo la lista de clientes
-11:42:24.210 INFO  AUTOMATION - Buscando el cliente usando el ID
-11:42:24.211 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:24.211 INFO  AUTOMATION - Teardown padre
-11:42:24.212 INFO  AUTOMATION - AfterEach: [17] Cliente[id=USR-17, nombre=ANGELIQUE, apellido=DURGAN, edad=52, email=ANGELIQUE.DURGAN.31@HOTMAIL.COM, pais=SERBIA, universidad=NORTHERN NEBRASKA ACADEMY]
-11:42:24.214 INFO  AUTOMATION - Test exitoso: [17] Cliente[id=USR-17, nombre=ANGELIQUE, apellido=DURGAN, edad=52, email=ANGELIQUE.DURGAN.31@HOTMAIL.COM, pais=SERBIA, universidad=NORTHERN NEBRASKA ACADEMY]
-11:42:24.228 INFO  AUTOMATION - Buscando el cliente usando el ID
-11:42:24.228 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:24.228 INFO  AUTOMATION - Teardown padre
-11:42:24.228 INFO  AUTOMATION - AfterEach: [18] Cliente[id=USR-18, nombre=RODGER, apellido=ANDERSON, edad=38, email=RODGER.ANDERSON.44@HOTMAIL.COM, pais=TANZANIA, UNITED REPUBLIC OF, universidad=HESSEL COLLEGE]
-11:42:24.229 INFO  AUTOMATION - Test exitoso: [18] Cliente[id=USR-18, nombre=RODGER, apellido=ANDERSON, edad=38, email=RODGER.ANDERSON.44@HOTMAIL.COM, pais=TANZANIA, UNITED REPUBLIC OF, universidad=HESSEL COLLEGE]
-11:42:24.230 INFO  AUTOMATION - Buscando el cliente usando el ID
-11:42:24.230 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:24.230 INFO  AUTOMATION - Teardown padre
-11:42:24.230 INFO  AUTOMATION - AfterEach: [14] Cliente[id=USR-14, nombre=NESTOR, apellido=DENESIK, edad=48, email=NESTOR.DENESIK.14@OUTLOOK.COM, pais=BAHRAIN, universidad=EASTERN BEIER]
-11:42:24.232 INFO  AUTOMATION - Test exitoso: [14] Cliente[id=USR-14, nombre=NESTOR, apellido=DENESIK, edad=48, email=NESTOR.DENESIK.14@OUTLOOK.COM, pais=BAHRAIN, universidad=EASTERN BEIER]
-11:42:24.240 INFO  AUTOMATION - BeforeEach: [19] Cliente[id=USR-19, nombre=JANA, apellido=PROHASKA, edad=22, email=JANA.PROHASKA.32@APPLE.COM, pais=SUDAN, universidad=SOUTH ILLINOIS INSTITUTE]
-11:42:24.240 INFO  AUTOMATION - Setup padre
-11:42:24.241 INFO  AUTOMATION - Leyendo la lista de clientes
-11:42:24.241 INFO  AUTOMATION - BeforeEach: [20] Cliente[id=USR-20, nombre=CONCETTA, apellido=MILLS, edad=50, email=CONCETTA.MILLS.20@OUTLOOK.COM, pais=VANUATU, universidad=WESTERN OKLAHOMA INSTITUTE]
-11:42:24.241 INFO  AUTOMATION - Setup padre
-11:42:24.241 INFO  AUTOMATION - Leyendo la lista de clientes
-11:42:24.244 INFO  AUTOMATION - BeforeEach: [26] Cliente[id=USR-26, nombre=FEDERICO, apellido=ANKUNDING, edad=45, email=FEDERICO.ANKUNDING.48@OUTLOOK.COM, pais=MAURITANIA, universidad=EAST NEW YORK INSTITUTE]
-11:42:24.245 INFO  AUTOMATION - BeforeEach: [21] Cliente[id=USR-21, nombre=MARY, apellido=JASKOLSKI, edad=32, email=MARY.JASKOLSKI.16@OUTLOOK.COM, pais=ARMENIA, universidad=EAST COLORADO UNIVERSITY]
-11:42:24.245 INFO  AUTOMATION - Setup padre
-11:42:24.245 INFO  AUTOMATION - Leyendo la lista de clientes
-11:42:24.245 INFO  AUTOMATION - Setup padre
-11:42:24.248 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-11:42:24.249 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-11:42:24.249 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-11:42:24.250 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-11:42:24.252 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-11:42:24.252 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-11:42:24.275 INFO  AUTOMATION - Buscando el cliente usando el ID
-11:42:24.275 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:24.276 INFO  AUTOMATION - Teardown padre
-11:42:24.277 INFO  AUTOMATION - AfterEach: [20] Cliente[id=USR-20, nombre=CONCETTA, apellido=MILLS, edad=50, email=CONCETTA.MILLS.20@OUTLOOK.COM, pais=VANUATU, universidad=WESTERN OKLAHOMA INSTITUTE]
-11:42:24.277 INFO  AUTOMATION - Leyendo la lista de clientes
-11:42:24.277 INFO  AUTOMATION - Test exitoso: [20] Cliente[id=USR-20, nombre=CONCETTA, apellido=MILLS, edad=50, email=CONCETTA.MILLS.20@OUTLOOK.COM, pais=VANUATU, universidad=WESTERN OKLAHOMA INSTITUTE]
-11:42:24.281 INFO  AUTOMATION - Buscando el cliente usando el ID
-11:42:24.281 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:24.281 INFO  AUTOMATION - Teardown padre
-11:42:24.282 INFO  AUTOMATION - AfterEach: [19] Cliente[id=USR-19, nombre=JANA, apellido=PROHASKA, edad=22, email=JANA.PROHASKA.32@APPLE.COM, pais=SUDAN, universidad=SOUTH ILLINOIS INSTITUTE]
-11:42:24.282 INFO  AUTOMATION - Test exitoso: [19] Cliente[id=USR-19, nombre=JANA, apellido=PROHASKA, edad=22, email=JANA.PROHASKA.32@APPLE.COM, pais=SUDAN, universidad=SOUTH ILLINOIS INSTITUTE]
-11:42:24.285 INFO  AUTOMATION - BeforeEach: [22] Cliente[id=USR-22, nombre=ROSANNE, apellido=KUB, edad=31, email=ROSANNE.KUB.3@HOTMAIL.COM, pais=PAPUA NEW GUINEA, universidad=NORTHERN PENNSYLVANIA INSTITUTE]
-11:42:24.286 INFO  AUTOMATION - Setup padre
-11:42:24.286 INFO  AUTOMATION - Leyendo la lista de clientes
-11:42:24.292 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-11:42:24.293 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-11:42:24.294 INFO  AUTOMATION - BeforeEach: [23] Cliente[id=USR-23, nombre=MEI, apellido=KRAJCIK, edad=38, email=MEI.KRAJCIK.43@HOTMAIL.COM, pais=EGYPT, universidad=WESTERN DELAWARE INSTITUTE]
-11:42:24.294 INFO  AUTOMATION - Setup padre
-11:42:24.294 INFO  AUTOMATION - Leyendo la lista de clientes
-11:42:24.329 INFO  AUTOMATION - Buscando el cliente usando el ID
-11:42:24.329 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:24.330 INFO  AUTOMATION - Teardown padre
-11:42:24.330 INFO  AUTOMATION - AfterEach: [21] Cliente[id=USR-21, nombre=MARY, apellido=JASKOLSKI, edad=32, email=MARY.JASKOLSKI.16@OUTLOOK.COM, pais=ARMENIA, universidad=EAST COLORADO UNIVERSITY]
-11:42:24.331 INFO  AUTOMATION - Test exitoso: [21] Cliente[id=USR-21, nombre=MARY, apellido=JASKOLSKI, edad=32, email=MARY.JASKOLSKI.16@OUTLOOK.COM, pais=ARMENIA, universidad=EAST COLORADO UNIVERSITY]
-11:42:24.338 INFO  AUTOMATION - Buscando el cliente usando el ID
-11:42:24.338 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:24.339 INFO  AUTOMATION - Teardown padre
-11:42:24.341 INFO  AUTOMATION - BeforeEach: [24] Cliente[id=USR-24, nombre=KEITH, apellido=MORISSETTE, edad=44, email=KEITH.MORISSETTE.1@OUTLOOK.COM, pais=CYPRUS, universidad=KSHLERIN ACADEMY]
-11:42:24.342 INFO  AUTOMATION - Setup padre
-11:42:24.342 INFO  AUTOMATION - Leyendo la lista de clientes
-11:42:24.344 INFO  AUTOMATION - AfterEach: [16] Cliente[id=USR-16, nombre=TRACEY, apellido=LANGOSH, edad=47, email=TRACEY.LANGOSH.15@APPLE.COM, pais=GUYANA, universidad=HOPPE INSTITUTE]
-11:42:24.344 INFO  AUTOMATION - Test exitoso: [16] Cliente[id=USR-16, nombre=TRACEY, apellido=LANGOSH, edad=47, email=TRACEY.LANGOSH.15@APPLE.COM, pais=GUYANA, universidad=HOPPE INSTITUTE]
-11:42:24.347 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-11:42:24.347 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-11:42:24.348 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-11:42:24.348 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-11:42:24.349 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-11:42:24.353 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-11:42:24.370 INFO  AUTOMATION - Buscando el cliente usando el ID
-11:42:24.371 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:24.371 INFO  AUTOMATION - Teardown padre
-11:42:24.371 INFO  AUTOMATION - AfterEach: [23] Cliente[id=USR-23, nombre=MEI, apellido=KRAJCIK, edad=38, email=MEI.KRAJCIK.43@HOTMAIL.COM, pais=EGYPT, universidad=WESTERN DELAWARE INSTITUTE]
-11:42:24.371 INFO  AUTOMATION - Test exitoso: [23] Cliente[id=USR-23, nombre=MEI, apellido=KRAJCIK, edad=38, email=MEI.KRAJCIK.43@HOTMAIL.COM, pais=EGYPT, universidad=WESTERN DELAWARE INSTITUTE]
-11:42:24.381 INFO  AUTOMATION - BeforeEach: [25] Cliente[id=USR-25, nombre=BRONWYN, apellido=MCGLYNN, edad=26, email=BRONWYN.MCGLYNN.12@APPLE.COM, pais=SLOVENIA, universidad=EASTERN CROOKS]
-11:42:24.382 INFO  AUTOMATION - Setup padre
-11:42:24.382 INFO  AUTOMATION - Leyendo la lista de clientes
-11:42:24.392 INFO  AUTOMATION - Buscando el cliente usando el ID
-11:42:24.392 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:24.392 INFO  AUTOMATION - Teardown padre
-11:42:24.393 INFO  AUTOMATION - AfterEach: [22] Cliente[id=USR-22, nombre=ROSANNE, apellido=KUB, edad=31, email=ROSANNE.KUB.3@HOTMAIL.COM, pais=PAPUA NEW GUINEA, universidad=NORTHERN PENNSYLVANIA INSTITUTE]
-11:42:24.393 INFO  AUTOMATION - Test exitoso: [22] Cliente[id=USR-22, nombre=ROSANNE, apellido=KUB, edad=31, email=ROSANNE.KUB.3@HOTMAIL.COM, pais=PAPUA NEW GUINEA, universidad=NORTHERN PENNSYLVANIA INSTITUTE]
-11:42:24.403 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-11:42:24.405 INFO  AUTOMATION - Buscando el cliente usando el ID
-11:42:24.405 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:24.406 INFO  AUTOMATION - Teardown padre
-11:42:24.406 INFO  AUTOMATION - AfterEach: [26] Cliente[id=USR-26, nombre=FEDERICO, apellido=ANKUNDING, edad=45, email=FEDERICO.ANKUNDING.48@OUTLOOK.COM, pais=MAURITANIA, universidad=EAST NEW YORK INSTITUTE]
-11:42:24.407 INFO  AUTOMATION - Test exitoso: [26] Cliente[id=USR-26, nombre=FEDERICO, apellido=ANKUNDING, edad=45, email=FEDERICO.ANKUNDING.48@OUTLOOK.COM, pais=MAURITANIA, universidad=EAST NEW YORK INSTITUTE]
-11:42:24.407 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-11:42:24.417 INFO  AUTOMATION - BeforeEach: [27] Cliente[id=USR-27, nombre=LOTTIE, apellido=RUNOLFSSON, edad=56, email=LOTTIE.RUNOLFSSON.8@GMAIL.COM, pais=TONGA, universidad=DAUGHERTY UNIVERSITY]
-11:42:24.417 INFO  AUTOMATION - Setup padre
-11:42:24.418 INFO  AUTOMATION - Leyendo la lista de clientes
-11:42:24.420 INFO  AUTOMATION - BeforeEach: [28] Cliente[id=USR-28, nombre=TAM, apellido=SHIELDS, edad=49, email=TAM.SHIELDS.27@APPLE.COM, pais=LIECHTENSTEIN, universidad=NORTH SANFORD COLLEGE]
-11:42:24.421 INFO  AUTOMATION - Setup padre
-11:42:24.421 INFO  AUTOMATION - Leyendo la lista de clientes
-11:42:24.423 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-11:42:24.424 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-11:42:24.427 INFO  AUTOMATION - BeforeEach: [29] Cliente[id=USR-29, nombre=KATI, apellido=O'REILLY, edad=34, email=KATI.O'REILLY.7@GMAIL.COM, pais=KAZAKHSTAN, universidad=NORTHERN PACOCHA INSTITUTE]
-11:42:24.427 INFO  AUTOMATION - Setup padre
-11:42:24.427 INFO  AUTOMATION - Leyendo la lista de clientes
-11:42:24.432 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-11:42:24.438 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-11:42:24.442 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-11:42:24.445 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-11:42:24.446 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-11:42:24.446 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-11:42:24.447 INFO  AUTOMATION - Buscando el cliente usando el ID
-11:42:24.447 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:24.447 INFO  AUTOMATION - Teardown padre
-11:42:24.447 INFO  AUTOMATION - AfterEach: [25] Cliente[id=USR-25, nombre=BRONWYN, apellido=MCGLYNN, edad=26, email=BRONWYN.MCGLYNN.12@APPLE.COM, pais=SLOVENIA, universidad=EASTERN CROOKS]
-11:42:24.448 INFO  AUTOMATION - Test exitoso: [25] Cliente[id=USR-25, nombre=BRONWYN, apellido=MCGLYNN, edad=26, email=BRONWYN.MCGLYNN.12@APPLE.COM, pais=SLOVENIA, universidad=EASTERN CROOKS]
-11:42:24.451 INFO  AUTOMATION - Buscando el cliente usando el ID
-11:42:24.451 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:24.454 INFO  AUTOMATION - Teardown padre
-11:42:24.454 INFO  AUTOMATION - AfterEach: [27] Cliente[id=USR-27, nombre=LOTTIE, apellido=RUNOLFSSON, edad=56, email=LOTTIE.RUNOLFSSON.8@GMAIL.COM, pais=TONGA, universidad=DAUGHERTY UNIVERSITY]
-11:42:24.455 INFO  AUTOMATION - Test exitoso: [27] Cliente[id=USR-27, nombre=LOTTIE, apellido=RUNOLFSSON, edad=56, email=LOTTIE.RUNOLFSSON.8@GMAIL.COM, pais=TONGA, universidad=DAUGHERTY UNIVERSITY]
-11:42:24.482 INFO  AUTOMATION - Buscando el cliente usando el ID
-11:42:24.482 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:24.483 INFO  AUTOMATION - Teardown padre
-11:42:24.483 INFO  AUTOMATION - AfterEach: [24] Cliente[id=USR-24, nombre=KEITH, apellido=MORISSETTE, edad=44, email=KEITH.MORISSETTE.1@OUTLOOK.COM, pais=CYPRUS, universidad=KSHLERIN ACADEMY]
-11:42:24.483 INFO  AUTOMATION - Test exitoso: [24] Cliente[id=USR-24, nombre=KEITH, apellido=MORISSETTE, edad=44, email=KEITH.MORISSETTE.1@OUTLOOK.COM, pais=CYPRUS, universidad=KSHLERIN ACADEMY]
-11:42:24.506 INFO  AUTOMATION - Buscando el cliente usando el ID
-11:42:24.506 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:24.506 INFO  AUTOMATION - Teardown padre
-11:42:24.506 INFO  AUTOMATION - AfterEach: [29] Cliente[id=USR-29, nombre=KATI, apellido=O'REILLY, edad=34, email=KATI.O'REILLY.7@GMAIL.COM, pais=KAZAKHSTAN, universidad=NORTHERN PACOCHA INSTITUTE]
-11:42:24.506 INFO  AUTOMATION - Test exitoso: [29] Cliente[id=USR-29, nombre=KATI, apellido=O'REILLY, edad=34, email=KATI.O'REILLY.7@GMAIL.COM, pais=KAZAKHSTAN, universidad=NORTHERN PACOCHA INSTITUTE]
-11:42:24.525 INFO  AUTOMATION - Buscando el cliente usando el ID
-11:42:24.525 INFO  AUTOMATION - Verificamos la información del cliente
-11:42:24.526 INFO  AUTOMATION - Teardown padre
-11:42:24.526 INFO  AUTOMATION - AfterEach: [28] Cliente[id=USR-28, nombre=TAM, apellido=SHIELDS, edad=49, email=TAM.SHIELDS.27@APPLE.COM, pais=LIECHTENSTEIN, universidad=NORTH SANFORD COLLEGE]
-11:42:24.526 INFO  AUTOMATION - Test exitoso: [28] Cliente[id=USR-28, nombre=TAM, apellido=SHIELDS, edad=49, email=TAM.SHIELDS.27@APPLE.COM, pais=LIECHTENSTEIN, universidad=NORTH SANFORD COLLEGE]
+12:36:15.772 INFO  AUTOMATION - Obteniendo la cantidad de videojuegos de XBOX
+12:36:15.772 INFO  AUTOMATION - Obteniendo el videojuegos con ID 14
+12:36:15.788 INFO  AUTOMATION - Verificar que la cantidad sea 7
+12:36:15.790 INFO  AUTOMATION - Verificando el viedo encontrado
+12:36:15.804 INFO  AUTOMATION - Teardown padre
+12:36:15.805 INFO  AUTOMATION - AfterEach: xboxTest()
+12:36:15.805 INFO  AUTOMATION - Teardown padre
+12:36:15.806 INFO  AUTOMATION - AfterEach: encontrarIDTest()
+12:36:15.840 INFO  AUTOMATION - Test exitoso: xboxTest()
+12:36:15.840 INFO  AUTOMATION - Test exitoso: encontrarIDTest()
+12:36:15.847 INFO  AUTOMATION - BeforeEach: [5] Cliente[id=USR-5, nombre=MIKKI, apellido=FEEST, edad=24, email=MIKKI.FEEST.9@OUTLOOK.COM, pais=VENEZUELA (BOLIVARIAN REPUBLIC OF), universidad=KOEPP UNIVERSITY]
+12:36:15.848 INFO  AUTOMATION - Setup padre
+12:36:15.849 INFO  AUTOMATION - Leyendo la lista de clientes
+12:36:16.180 INFO  AUTOMATION - BeforeEach: encontrarIDTest()
+12:36:16.181 INFO  AUTOMATION - Setup padre
+12:36:16.181 INFO  AUTOMATION - Leyendo la lista de clientes
+12:36:16.186 INFO  AUTOMATION - BeforeEach: [1] Cliente[id=USR-1, nombre=MAGDALENE, apellido=SAUER, edad=31, email=MAGDALENE.SAUER.26@HOTMAIL.COM, pais=FINLAND, universidad=EAST WILKINSON]
+12:36:16.200 INFO  AUTOMATION - Setup padre
+12:36:16.202 INFO  AUTOMATION - Leyendo la lista de clientes
+12:36:16.211 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:36:16.211 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:36:16.211 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:36:16.212 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:36:16.217 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:36:16.217 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:36:16.217 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:36:16.218 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:36:16.223 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:36:16.226 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:36:17.698 INFO  AUTOMATION - Encontrando mayores de 40
+12:36:17.699 INFO  AUTOMATION - Encontrando al cliente con el ID USR-22
+12:36:17.700 INFO  AUTOMATION - Validar que hayan 17 elementos
+12:36:17.700 INFO  AUTOMATION - Verificando el cliente encontrado
+12:36:17.700 INFO  AUTOMATION - Teardown padre
+12:36:17.701 INFO  AUTOMATION - AfterEach: mayores40Test()
+12:36:17.703 INFO  AUTOMATION - Test exitoso: mayores40Test()
+12:36:17.703 INFO  AUTOMATION - Teardown padre
+12:36:17.704 INFO  AUTOMATION - AfterEach: encontrarIDTest()
+12:36:17.704 INFO  AUTOMATION - Test exitoso: encontrarIDTest()
+12:36:17.718 INFO  AUTOMATION - Buscando el cliente usando el ID
+12:36:17.718 INFO  AUTOMATION - Buscando el cliente usando el ID
+12:36:17.720 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:17.720 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:17.721 INFO  AUTOMATION - Teardown padre
+12:36:17.721 INFO  AUTOMATION - Teardown padre
+12:36:17.723 INFO  AUTOMATION - AfterEach: [1] Cliente[id=USR-1, nombre=MAGDALENE, apellido=SAUER, edad=31, email=MAGDALENE.SAUER.26@HOTMAIL.COM, pais=FINLAND, universidad=EAST WILKINSON]
+12:36:17.723 INFO  AUTOMATION - AfterEach: [5] Cliente[id=USR-5, nombre=MIKKI, apellido=FEEST, edad=24, email=MIKKI.FEEST.9@OUTLOOK.COM, pais=VENEZUELA (BOLIVARIAN REPUBLIC OF), universidad=KOEPP UNIVERSITY]
+12:36:17.725 INFO  AUTOMATION - Test exitoso: [5] Cliente[id=USR-5, nombre=MIKKI, apellido=FEEST, edad=24, email=MIKKI.FEEST.9@OUTLOOK.COM, pais=VENEZUELA (BOLIVARIAN REPUBLIC OF), universidad=KOEPP UNIVERSITY]
+12:36:17.725 INFO  AUTOMATION - Test exitoso: [1] Cliente[id=USR-1, nombre=MAGDALENE, apellido=SAUER, edad=31, email=MAGDALENE.SAUER.26@HOTMAIL.COM, pais=FINLAND, universidad=EAST WILKINSON]
+12:36:17.728 INFO  AUTOMATION - BeforeEach: [2] Cliente[id=USR-2, nombre=NOLAN, apellido=STANTON, edad=25, email=NOLAN.STANTON.16@HOTMAIL.COM, pais=ESWATINI, universidad=BERNIER COLLEGE]
+12:36:17.730 INFO  AUTOMATION - Setup padre
+12:36:17.731 INFO  AUTOMATION - BeforeEach: [3] Cliente[id=USR-3, nombre=LEMUEL, apellido=O'CONNER, edad=43, email=LEMUEL.O'CONNER.33@OUTLOOK.COM, pais=PANAMA, universidad=PREDOVIC COLLEGE]
+12:36:17.731 INFO  AUTOMATION - Setup padre
+12:36:17.732 INFO  AUTOMATION - Leyendo la lista de clientes
+12:36:17.732 INFO  AUTOMATION - Leyendo la lista de clientes
+12:36:17.744 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:36:17.745 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:36:17.747 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:36:17.748 INFO  AUTOMATION - BeforeEach: [6] Videojuego[id=6, nombre=FINAL FANTASY XVI, epoca=2002, precio=59.54, duracion=36, genero=TERROR, empresa=XBOX]
+12:36:17.749 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:36:17.748 INFO  AUTOMATION - Setup padre
+12:36:17.749 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+12:36:17.754 INFO  AUTOMATION - Buscando el videojuego usando el ID
+12:36:17.756 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:17.758 INFO  AUTOMATION - Teardown padre
+12:36:17.759 INFO  AUTOMATION - AfterEach: [6] Videojuego[id=6, nombre=FINAL FANTASY XVI, epoca=2002, precio=59.54, duracion=36, genero=TERROR, empresa=XBOX]
+12:36:17.764 INFO  AUTOMATION - Test exitoso: [6] Videojuego[id=6, nombre=FINAL FANTASY XVI, epoca=2002, precio=59.54, duracion=36, genero=TERROR, empresa=XBOX]
+12:36:17.777 INFO  AUTOMATION - BeforeEach: [4] Cliente[id=USR-4, nombre=KERSTIN, apellido=KERTZMANN, edad=49, email=KERSTIN.KERTZMANN.8@APPLE.COM, pais=ESWATINI, universidad=SOUTHERN ORTIZ COLLEGE]
+12:36:17.778 INFO  AUTOMATION - Setup padre
+12:36:17.778 INFO  AUTOMATION - Leyendo la lista de clientes
+12:36:17.783 INFO  AUTOMATION - BeforeEach: [11] Cliente[id=USR-11, nombre=NICOLLE, apellido=SENGER, edad=43, email=NICOLLE.SENGER.27@APPLE.COM, pais=BHUTAN, universidad=THE WISOKY]
+12:36:17.783 INFO  AUTOMATION - Setup padre
+12:36:17.784 INFO  AUTOMATION - Leyendo la lista de clientes
+12:36:17.789 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:36:17.790 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:36:17.795 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:36:17.797 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:36:17.813 INFO  AUTOMATION - BeforeEach: [7] Videojuego[id=7, nombre=GOD OF WAR: RAGNAROK, epoca=2012, precio=53.29, duracion=44, genero=ACCION, empresa=PLAYSTATION]
+12:36:17.815 INFO  AUTOMATION - Setup padre
+12:36:17.816 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+12:36:17.821 INFO  AUTOMATION - Buscando el videojuego usando el ID
+12:36:17.822 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:17.823 INFO  AUTOMATION - Teardown padre
+12:36:17.823 INFO  AUTOMATION - AfterEach: [7] Videojuego[id=7, nombre=GOD OF WAR: RAGNAROK, epoca=2012, precio=53.29, duracion=44, genero=ACCION, empresa=PLAYSTATION]
+12:36:17.824 INFO  AUTOMATION - Test exitoso: [7] Videojuego[id=7, nombre=GOD OF WAR: RAGNAROK, epoca=2012, precio=53.29, duracion=44, genero=ACCION, empresa=PLAYSTATION]
+12:36:17.856 INFO  AUTOMATION - Buscando el cliente usando el ID
+12:36:17.858 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:17.859 INFO  AUTOMATION - Teardown padre
+12:36:17.859 INFO  AUTOMATION - Buscando el cliente usando el ID
+12:36:17.860 INFO  AUTOMATION - AfterEach: [3] Cliente[id=USR-3, nombre=LEMUEL, apellido=O'CONNER, edad=43, email=LEMUEL.O'CONNER.33@OUTLOOK.COM, pais=PANAMA, universidad=PREDOVIC COLLEGE]
+12:36:17.860 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:17.860 INFO  AUTOMATION - Test exitoso: [3] Cliente[id=USR-3, nombre=LEMUEL, apellido=O'CONNER, edad=43, email=LEMUEL.O'CONNER.33@OUTLOOK.COM, pais=PANAMA, universidad=PREDOVIC COLLEGE]
+12:36:17.860 INFO  AUTOMATION - Teardown padre
+12:36:17.861 INFO  AUTOMATION - AfterEach: [2] Cliente[id=USR-2, nombre=NOLAN, apellido=STANTON, edad=25, email=NOLAN.STANTON.16@HOTMAIL.COM, pais=ESWATINI, universidad=BERNIER COLLEGE]
+12:36:17.870 INFO  AUTOMATION - BeforeEach: [8] Videojuego[id=8, nombre=GRANBLUE FANTASY: RELINK, epoca=2019, precio=55.43, duracion=37, genero=ACCION, empresa=PLAYSTATION]
+12:36:17.871 INFO  AUTOMATION - Setup padre
+12:36:17.871 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+12:36:17.875 INFO  AUTOMATION - Buscando el videojuego usando el ID
+12:36:17.876 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:17.877 INFO  AUTOMATION - Teardown padre
+12:36:17.877 INFO  AUTOMATION - AfterEach: [8] Videojuego[id=8, nombre=GRANBLUE FANTASY: RELINK, epoca=2019, precio=55.43, duracion=37, genero=ACCION, empresa=PLAYSTATION]
+12:36:17.878 INFO  AUTOMATION - Test exitoso: [8] Videojuego[id=8, nombre=GRANBLUE FANTASY: RELINK, epoca=2019, precio=55.43, duracion=37, genero=ACCION, empresa=PLAYSTATION]
+12:36:17.879 INFO  AUTOMATION - Buscando el cliente usando el ID
+12:36:17.880 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:17.881 INFO  AUTOMATION - Teardown padre
+12:36:17.882 INFO  AUTOMATION - AfterEach: [11] Cliente[id=USR-11, nombre=NICOLLE, apellido=SENGER, edad=43, email=NICOLLE.SENGER.27@APPLE.COM, pais=BHUTAN, universidad=THE WISOKY]
+12:36:17.883 INFO  AUTOMATION - Test exitoso: [11] Cliente[id=USR-11, nombre=NICOLLE, apellido=SENGER, edad=43, email=NICOLLE.SENGER.27@APPLE.COM, pais=BHUTAN, universidad=THE WISOKY]
+12:36:17.889 INFO  AUTOMATION - Buscando el cliente usando el ID
+12:36:17.889 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:17.890 INFO  AUTOMATION - Teardown padre
+12:36:17.891 INFO  AUTOMATION - AfterEach: [4] Cliente[id=USR-4, nombre=KERSTIN, apellido=KERTZMANN, edad=49, email=KERSTIN.KERTZMANN.8@APPLE.COM, pais=ESWATINI, universidad=SOUTHERN ORTIZ COLLEGE]
+12:36:17.891 INFO  AUTOMATION - Test exitoso: [4] Cliente[id=USR-4, nombre=KERSTIN, apellido=KERTZMANN, edad=49, email=KERSTIN.KERTZMANN.8@APPLE.COM, pais=ESWATINI, universidad=SOUTHERN ORTIZ COLLEGE]
+12:36:17.895 INFO  AUTOMATION - Test exitoso: [2] Cliente[id=USR-2, nombre=NOLAN, apellido=STANTON, edad=25, email=NOLAN.STANTON.16@HOTMAIL.COM, pais=ESWATINI, universidad=BERNIER COLLEGE]
+12:36:17.907 INFO  AUTOMATION - BeforeEach: [6] Cliente[id=USR-6, nombre=CLAYTON, apellido=RUSSEL, edad=47, email=CLAYTON.RUSSEL.31@HOTMAIL.COM, pais=CANADA, universidad=LINDGREN INSTITUTE]
+12:36:17.909 INFO  AUTOMATION - Setup padre
+12:36:17.909 INFO  AUTOMATION - Leyendo la lista de clientes
+12:36:17.916 INFO  AUTOMATION - BeforeEach: [7] Cliente[id=USR-7, nombre=MEAGAN, apellido=CORWIN, edad=23, email=MEAGAN.CORWIN.30@APPLE.COM, pais=UNITED ARAB EMIRATES, universidad=WESTERN TERRY ACADEMY]
+12:36:17.917 INFO  AUTOMATION - Setup padre
+12:36:17.917 INFO  AUTOMATION - Leyendo la lista de clientes
+12:36:17.928 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:36:17.929 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:36:17.931 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:36:17.932 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:36:17.967 INFO  AUTOMATION - BeforeEach: [9] Videojuego[id=9, nombre=GRAND THEFT AUTO V, epoca=2004, precio=60.0, duracion=19, genero=ACCION, empresa=XBOX]
+12:36:17.967 INFO  AUTOMATION - BeforeEach: [8] Cliente[id=USR-8, nombre=TONYA, apellido=HAMMES, edad=46, email=TONYA.HAMMES.28@APPLE.COM, pais=COLOMBIA, universidad=NORTHERN REICHERT INSTITUTE]
+12:36:17.968 INFO  AUTOMATION - Setup padre
+12:36:17.968 INFO  AUTOMATION - Setup padre
+12:36:17.969 INFO  AUTOMATION - Leyendo la lista de clientes
+12:36:17.969 INFO  AUTOMATION - BeforeEach: [15] Cliente[id=USR-15, nombre=MADDIE, apellido=HAMILL, edad=44, email=MADDIE.HAMILL.20@OUTLOOK.COM, pais=SOUTH SUDAN, universidad=EASTERN DONNELLY]
+12:36:17.969 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+12:36:17.970 INFO  AUTOMATION - Setup padre
+12:36:17.970 INFO  AUTOMATION - Leyendo la lista de clientes
+12:36:17.975 INFO  AUTOMATION - Buscando el videojuego usando el ID
+12:36:17.976 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:17.976 INFO  AUTOMATION - Teardown padre
+12:36:17.976 INFO  AUTOMATION - AfterEach: [9] Videojuego[id=9, nombre=GRAND THEFT AUTO V, epoca=2004, precio=60.0, duracion=19, genero=ACCION, empresa=XBOX]
+12:36:17.977 INFO  AUTOMATION - Test exitoso: [9] Videojuego[id=9, nombre=GRAND THEFT AUTO V, epoca=2004, precio=60.0, duracion=19, genero=ACCION, empresa=XBOX]
+12:36:17.978 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:36:17.979 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:36:17.979 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:36:17.980 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:36:18.008 INFO  AUTOMATION - BeforeEach: [10] Videojuego[id=10, nombre=HIGH ON LIFE, epoca=2008, precio=55.51, duracion=47, genero=TERROR, empresa=NINTENDO]
+12:36:18.009 INFO  AUTOMATION - Setup padre
+12:36:18.010 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+12:36:18.014 INFO  AUTOMATION - Buscando el videojuego usando el ID
+12:36:18.015 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:18.015 INFO  AUTOMATION - Teardown padre
+12:36:18.015 INFO  AUTOMATION - AfterEach: [10] Videojuego[id=10, nombre=HIGH ON LIFE, epoca=2008, precio=55.51, duracion=47, genero=TERROR, empresa=NINTENDO]
+12:36:18.016 INFO  AUTOMATION - Test exitoso: [10] Videojuego[id=10, nombre=HIGH ON LIFE, epoca=2008, precio=55.51, duracion=47, genero=TERROR, empresa=NINTENDO]
+12:36:18.026 INFO  AUTOMATION - Buscando el cliente usando el ID
+12:36:18.036 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:18.037 INFO  AUTOMATION - Teardown padre
+12:36:18.038 INFO  AUTOMATION - AfterEach: [6] Cliente[id=USR-6, nombre=CLAYTON, apellido=RUSSEL, edad=47, email=CLAYTON.RUSSEL.31@HOTMAIL.COM, pais=CANADA, universidad=LINDGREN INSTITUTE]
+12:36:18.038 INFO  AUTOMATION - Test exitoso: [6] Cliente[id=USR-6, nombre=CLAYTON, apellido=RUSSEL, edad=47, email=CLAYTON.RUSSEL.31@HOTMAIL.COM, pais=CANADA, universidad=LINDGREN INSTITUTE]
+12:36:18.038 INFO  AUTOMATION - Buscando el cliente usando el ID
+12:36:18.039 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:18.040 INFO  AUTOMATION - Teardown padre
+12:36:18.040 INFO  AUTOMATION - AfterEach: [7] Cliente[id=USR-7, nombre=MEAGAN, apellido=CORWIN, edad=23, email=MEAGAN.CORWIN.30@APPLE.COM, pais=UNITED ARAB EMIRATES, universidad=WESTERN TERRY ACADEMY]
+12:36:18.041 INFO  AUTOMATION - Test exitoso: [7] Cliente[id=USR-7, nombre=MEAGAN, apellido=CORWIN, edad=23, email=MEAGAN.CORWIN.30@APPLE.COM, pais=UNITED ARAB EMIRATES, universidad=WESTERN TERRY ACADEMY]
+12:36:18.052 INFO  AUTOMATION - BeforeEach: [11] Videojuego[id=11, nombre=HOGWARTS LEGACY, epoca=2011, precio=55.74, duracion=24, genero=COMEDIA, empresa=NINTENDO]
+12:36:18.052 INFO  AUTOMATION - Setup padre
+12:36:18.053 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+12:36:18.077 INFO  AUTOMATION - Buscando el videojuego usando el ID
+12:36:18.078 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:18.079 INFO  AUTOMATION - Teardown padre
+12:36:18.079 INFO  AUTOMATION - AfterEach: [11] Videojuego[id=11, nombre=HOGWARTS LEGACY, epoca=2011, precio=55.74, duracion=24, genero=COMEDIA, empresa=NINTENDO]
+12:36:18.080 INFO  AUTOMATION - Test exitoso: [11] Videojuego[id=11, nombre=HOGWARTS LEGACY, epoca=2011, precio=55.74, duracion=24, genero=COMEDIA, empresa=NINTENDO]
+12:36:18.083 INFO  AUTOMATION - BeforeEach: [9] Cliente[id=USR-9, nombre=EDUARDO, apellido=HARBER, edad=43, email=EDUARDO.HARBER.41@GMAIL.COM, pais=CABO VERDE, universidad=NORTH ZIEMANN]
+12:36:18.084 INFO  AUTOMATION - Setup padre
+12:36:18.084 INFO  AUTOMATION - Leyendo la lista de clientes
+12:36:18.079 INFO  AUTOMATION - Buscando el cliente usando el ID
+12:36:18.086 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:18.086 INFO  AUTOMATION - Teardown padre
+12:36:18.086 INFO  AUTOMATION - AfterEach: [15] Cliente[id=USR-15, nombre=MADDIE, apellido=HAMILL, edad=44, email=MADDIE.HAMILL.20@OUTLOOK.COM, pais=SOUTH SUDAN, universidad=EASTERN DONNELLY]
+12:36:18.087 INFO  AUTOMATION - Test exitoso: [15] Cliente[id=USR-15, nombre=MADDIE, apellido=HAMILL, edad=44, email=MADDIE.HAMILL.20@OUTLOOK.COM, pais=SOUTH SUDAN, universidad=EASTERN DONNELLY]
+12:36:18.099 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:36:18.101 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:36:18.101 INFO  AUTOMATION - BeforeEach: [12] Videojuego[id=12, nombre=HOLLOW KNIGHT: SILKSONG, epoca=2001, precio=53.81, duracion=14, genero=COMEDIA, empresa=NINTENDO]
+12:36:18.102 INFO  AUTOMATION - Setup padre
+12:36:18.102 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+12:36:18.104 INFO  AUTOMATION - BeforeEach: [10] Cliente[id=USR-10, nombre=TYRONE, apellido=MILLS, edad=49, email=TYRONE.MILLS.45@GMAIL.COM, pais=PARAGUAY, universidad=SOUTHERN ROHAN UNIVERSITY]
+12:36:18.105 INFO  AUTOMATION - Setup padre
+12:36:18.105 INFO  AUTOMATION - Leyendo la lista de clientes
+12:36:18.106 INFO  AUTOMATION - Buscando el videojuego usando el ID
+12:36:18.107 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:18.107 INFO  AUTOMATION - Teardown padre
+12:36:18.107 INFO  AUTOMATION - AfterEach: [12] Videojuego[id=12, nombre=HOLLOW KNIGHT: SILKSONG, epoca=2001, precio=53.81, duracion=14, genero=COMEDIA, empresa=NINTENDO]
+12:36:18.107 INFO  AUTOMATION - Test exitoso: [12] Videojuego[id=12, nombre=HOLLOW KNIGHT: SILKSONG, epoca=2001, precio=53.81, duracion=14, genero=COMEDIA, empresa=NINTENDO]
+12:36:18.112 INFO  AUTOMATION - Buscando el cliente usando el ID
+12:36:18.113 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:18.113 INFO  AUTOMATION - Teardown padre
+12:36:18.114 INFO  AUTOMATION - AfterEach: [8] Cliente[id=USR-8, nombre=TONYA, apellido=HAMMES, edad=46, email=TONYA.HAMMES.28@APPLE.COM, pais=COLOMBIA, universidad=NORTHERN REICHERT INSTITUTE]
+12:36:18.114 INFO  AUTOMATION - Test exitoso: [8] Cliente[id=USR-8, nombre=TONYA, apellido=HAMMES, edad=46, email=TONYA.HAMMES.28@APPLE.COM, pais=COLOMBIA, universidad=NORTHERN REICHERT INSTITUTE]
+12:36:18.129 INFO  AUTOMATION - BeforeEach: [18] Cliente[id=USR-18, nombre=RODGER, apellido=ANDERSON, edad=38, email=RODGER.ANDERSON.44@HOTMAIL.COM, pais=TANZANIA, UNITED REPUBLIC OF, universidad=HESSEL COLLEGE]
+12:36:18.130 INFO  AUTOMATION - Setup padre
+12:36:18.131 INFO  AUTOMATION - Leyendo la lista de clientes
+12:36:18.132 INFO  AUTOMATION - BeforeEach: [12] Cliente[id=USR-12, nombre=CARTER, apellido=GREENFELDER, edad=44, email=CARTER.GREENFELDER.24@GMAIL.COM, pais=RUSSIAN FEDERATION, universidad=CORKERY ACADEMY]
+12:36:18.132 INFO  AUTOMATION - Setup padre
+12:36:18.133 INFO  AUTOMATION - Leyendo la lista de clientes
+12:36:18.134 INFO  AUTOMATION - BeforeEach: [13] Videojuego[id=13, nombre=MARIO BROS, epoca=2007, precio=55.64, duracion=28, genero=COMEDIA, empresa=PLAYSTATION]
+12:36:18.134 INFO  AUTOMATION - Setup padre
+12:36:18.135 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+12:36:18.138 INFO  AUTOMATION - Buscando el videojuego usando el ID
+12:36:18.138 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:18.139 INFO  AUTOMATION - Teardown padre
+12:36:18.139 INFO  AUTOMATION - AfterEach: [13] Videojuego[id=13, nombre=MARIO BROS, epoca=2007, precio=55.64, duracion=28, genero=COMEDIA, empresa=PLAYSTATION]
+12:36:18.140 INFO  AUTOMATION - Test exitoso: [13] Videojuego[id=13, nombre=MARIO BROS, epoca=2007, precio=55.64, duracion=28, genero=COMEDIA, empresa=PLAYSTATION]
+12:36:18.142 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:36:18.144 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:36:18.157 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:36:18.161 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:36:18.164 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:36:18.164 INFO  AUTOMATION - BeforeEach: [14] Videojuego[id=14, nombre=METROID PRIME 4, epoca=2013, precio=59.2, duracion=7, genero=ACCION, empresa=NINTENDO]
+12:36:18.165 INFO  AUTOMATION - Setup padre
+12:36:18.166 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+12:36:18.166 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:36:18.177 INFO  AUTOMATION - Buscando el cliente usando el ID
+12:36:18.177 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:18.178 INFO  AUTOMATION - Teardown padre
+12:36:18.178 INFO  AUTOMATION - AfterEach: [9] Cliente[id=USR-9, nombre=EDUARDO, apellido=HARBER, edad=43, email=EDUARDO.HARBER.41@GMAIL.COM, pais=CABO VERDE, universidad=NORTH ZIEMANN]
+12:36:18.178 INFO  AUTOMATION - Test exitoso: [9] Cliente[id=USR-9, nombre=EDUARDO, apellido=HARBER, edad=43, email=EDUARDO.HARBER.41@GMAIL.COM, pais=CABO VERDE, universidad=NORTH ZIEMANN]
+12:36:18.193 INFO  AUTOMATION - BeforeEach: [13] Cliente[id=USR-13, nombre=DELPHA, apellido=REICHERT, edad=34, email=DELPHA.REICHERT.15@HOTMAIL.COM, pais=AFGHANISTAN, universidad=EAST PROSACCO]
+12:36:18.194 INFO  AUTOMATION - Setup padre
+12:36:18.195 INFO  AUTOMATION - Leyendo la lista de clientes
+12:36:18.207 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:36:18.207 INFO  AUTOMATION - Buscando el cliente usando el ID
+12:36:18.207 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:18.208 INFO  AUTOMATION - Teardown padre
+12:36:18.208 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:36:18.208 INFO  AUTOMATION - Buscando el cliente usando el ID
+12:36:18.208 INFO  AUTOMATION - AfterEach: [10] Cliente[id=USR-10, nombre=TYRONE, apellido=MILLS, edad=49, email=TYRONE.MILLS.45@GMAIL.COM, pais=PARAGUAY, universidad=SOUTHERN ROHAN UNIVERSITY]
+12:36:18.209 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:18.209 INFO  AUTOMATION - Teardown padre
+12:36:18.209 INFO  AUTOMATION - Test exitoso: [10] Cliente[id=USR-10, nombre=TYRONE, apellido=MILLS, edad=49, email=TYRONE.MILLS.45@GMAIL.COM, pais=PARAGUAY, universidad=SOUTHERN ROHAN UNIVERSITY]
+12:36:18.209 INFO  AUTOMATION - AfterEach: [12] Cliente[id=USR-12, nombre=CARTER, apellido=GREENFELDER, edad=44, email=CARTER.GREENFELDER.24@GMAIL.COM, pais=RUSSIAN FEDERATION, universidad=CORKERY ACADEMY]
+12:36:18.210 INFO  AUTOMATION - Test exitoso: [12] Cliente[id=USR-12, nombre=CARTER, apellido=GREENFELDER, edad=44, email=CARTER.GREENFELDER.24@GMAIL.COM, pais=RUSSIAN FEDERATION, universidad=CORKERY ACADEMY]
+12:36:18.226 INFO  AUTOMATION - BeforeEach: [14] Cliente[id=USR-14, nombre=NESTOR, apellido=DENESIK, edad=48, email=NESTOR.DENESIK.14@OUTLOOK.COM, pais=BAHRAIN, universidad=EASTERN BEIER]
+12:36:18.226 INFO  AUTOMATION - Setup padre
+12:36:18.227 INFO  AUTOMATION - Leyendo la lista de clientes
+12:36:18.227 INFO  AUTOMATION - BeforeEach: [16] Cliente[id=USR-16, nombre=TRACEY, apellido=LANGOSH, edad=47, email=TRACEY.LANGOSH.15@APPLE.COM, pais=GUYANA, universidad=HOPPE INSTITUTE]
+12:36:18.227 INFO  AUTOMATION - Setup padre
+12:36:18.228 INFO  AUTOMATION - Leyendo la lista de clientes
+12:36:18.232 INFO  AUTOMATION - Buscando el videojuego usando el ID
+12:36:18.233 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:18.233 INFO  AUTOMATION - Teardown padre
+12:36:18.233 INFO  AUTOMATION - Buscando el cliente usando el ID
+12:36:18.233 INFO  AUTOMATION - AfterEach: [14] Videojuego[id=14, nombre=METROID PRIME 4, epoca=2013, precio=59.2, duracion=7, genero=ACCION, empresa=NINTENDO]
+12:36:18.233 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:18.234 INFO  AUTOMATION - Teardown padre
+12:36:18.234 INFO  AUTOMATION - Test exitoso: [14] Videojuego[id=14, nombre=METROID PRIME 4, epoca=2013, precio=59.2, duracion=7, genero=ACCION, empresa=NINTENDO]
+12:36:18.234 INFO  AUTOMATION - AfterEach: [18] Cliente[id=USR-18, nombre=RODGER, apellido=ANDERSON, edad=38, email=RODGER.ANDERSON.44@HOTMAIL.COM, pais=TANZANIA, UNITED REPUBLIC OF, universidad=HESSEL COLLEGE]
+12:36:18.235 INFO  AUTOMATION - Test exitoso: [18] Cliente[id=USR-18, nombre=RODGER, apellido=ANDERSON, edad=38, email=RODGER.ANDERSON.44@HOTMAIL.COM, pais=TANZANIA, UNITED REPUBLIC OF, universidad=HESSEL COLLEGE]
+12:36:18.236 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:36:18.238 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:36:18.255 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:36:18.257 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:36:18.263 INFO  AUTOMATION - Buscando el cliente usando el ID
+12:36:18.264 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:18.264 INFO  AUTOMATION - Teardown padre
+12:36:18.265 INFO  AUTOMATION - AfterEach: [13] Cliente[id=USR-13, nombre=DELPHA, apellido=REICHERT, edad=34, email=DELPHA.REICHERT.15@HOTMAIL.COM, pais=AFGHANISTAN, universidad=EAST PROSACCO]
+12:36:18.265 INFO  AUTOMATION - Test exitoso: [13] Cliente[id=USR-13, nombre=DELPHA, apellido=REICHERT, edad=34, email=DELPHA.REICHERT.15@HOTMAIL.COM, pais=AFGHANISTAN, universidad=EAST PROSACCO]
+12:36:18.271 INFO  AUTOMATION - BeforeEach: [15] Videojuego[id=15, nombre=STAR CITIZEN, epoca=2009, precio=54.57, duracion=21, genero=ACCION, empresa=NINTENDO]
+12:36:18.272 INFO  AUTOMATION - Setup padre
+12:36:18.272 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+12:36:18.275 INFO  AUTOMATION - BeforeEach: [23] Cliente[id=USR-23, nombre=MEI, apellido=KRAJCIK, edad=38, email=MEI.KRAJCIK.43@HOTMAIL.COM, pais=EGYPT, universidad=WESTERN DELAWARE INSTITUTE]
+12:36:18.275 INFO  AUTOMATION - Setup padre
+12:36:18.276 INFO  AUTOMATION - Buscando el videojuego usando el ID
+12:36:18.277 INFO  AUTOMATION - Leyendo la lista de clientes
+12:36:18.285 INFO  AUTOMATION - BeforeEach: [17] Cliente[id=USR-17, nombre=ANGELIQUE, apellido=DURGAN, edad=52, email=ANGELIQUE.DURGAN.31@HOTMAIL.COM, pais=SERBIA, universidad=NORTHERN NEBRASKA ACADEMY]
+12:36:18.285 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:18.286 INFO  AUTOMATION - Setup padre
+12:36:18.286 INFO  AUTOMATION - Leyendo la lista de clientes
+12:36:18.287 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:36:18.289 INFO  AUTOMATION - Teardown padre
+12:36:18.289 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:36:18.289 INFO  AUTOMATION - AfterEach: [15] Videojuego[id=15, nombre=STAR CITIZEN, epoca=2009, precio=54.57, duracion=21, genero=ACCION, empresa=NINTENDO]
+12:36:18.289 INFO  AUTOMATION - Test exitoso: [15] Videojuego[id=15, nombre=STAR CITIZEN, epoca=2009, precio=54.57, duracion=21, genero=ACCION, empresa=NINTENDO]
+12:36:18.300 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:36:18.302 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:36:18.309 INFO  AUTOMATION - BeforeEach: [16] Videojuego[id=16, nombre=THE CALLISTO PROTOCOL, epoca=2010, precio=57.93, duracion=37, genero=ACCION, empresa=PLAYSTATION]
+12:36:18.310 INFO  AUTOMATION - Setup padre
+12:36:18.310 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+12:36:18.314 INFO  AUTOMATION - Buscando el videojuego usando el ID
+12:36:18.315 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:18.315 INFO  AUTOMATION - Teardown padre
+12:36:18.315 INFO  AUTOMATION - AfterEach: [16] Videojuego[id=16, nombre=THE CALLISTO PROTOCOL, epoca=2010, precio=57.93, duracion=37, genero=ACCION, empresa=PLAYSTATION]
+12:36:18.316 INFO  AUTOMATION - Test exitoso: [16] Videojuego[id=16, nombre=THE CALLISTO PROTOCOL, epoca=2010, precio=57.93, duracion=37, genero=ACCION, empresa=PLAYSTATION]
+12:36:18.318 INFO  AUTOMATION - Buscando el cliente usando el ID
+12:36:18.325 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:18.326 INFO  AUTOMATION - Teardown padre
+12:36:18.327 INFO  AUTOMATION - AfterEach: [16] Cliente[id=USR-16, nombre=TRACEY, apellido=LANGOSH, edad=47, email=TRACEY.LANGOSH.15@APPLE.COM, pais=GUYANA, universidad=HOPPE INSTITUTE]
+12:36:18.327 INFO  AUTOMATION - Test exitoso: [16] Cliente[id=USR-16, nombre=TRACEY, apellido=LANGOSH, edad=47, email=TRACEY.LANGOSH.15@APPLE.COM, pais=GUYANA, universidad=HOPPE INSTITUTE]
+12:36:18.346 INFO  AUTOMATION - BeforeEach: [17] Videojuego[id=17, nombre=THE LEGEND OF ZELDA, epoca=2011, precio=61.23, duracion=60, genero=COMEDIA, empresa=NINTENDO]
+12:36:18.346 INFO  AUTOMATION - Setup padre
+12:36:18.347 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+12:36:18.347 INFO  AUTOMATION - Buscando el cliente usando el ID
+12:36:18.347 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:18.347 INFO  AUTOMATION - Teardown padre
+12:36:18.348 INFO  AUTOMATION - AfterEach: [23] Cliente[id=USR-23, nombre=MEI, apellido=KRAJCIK, edad=38, email=MEI.KRAJCIK.43@HOTMAIL.COM, pais=EGYPT, universidad=WESTERN DELAWARE INSTITUTE]
+12:36:18.348 INFO  AUTOMATION - Test exitoso: [23] Cliente[id=USR-23, nombre=MEI, apellido=KRAJCIK, edad=38, email=MEI.KRAJCIK.43@HOTMAIL.COM, pais=EGYPT, universidad=WESTERN DELAWARE INSTITUTE]
+12:36:18.349 INFO  AUTOMATION - BeforeEach: [19] Cliente[id=USR-19, nombre=JANA, apellido=PROHASKA, edad=22, email=JANA.PROHASKA.32@APPLE.COM, pais=SUDAN, universidad=SOUTH ILLINOIS INSTITUTE]
+12:36:18.350 INFO  AUTOMATION - Setup padre
+12:36:18.350 INFO  AUTOMATION - Leyendo la lista de clientes
+12:36:18.352 INFO  AUTOMATION - Buscando el videojuego usando el ID
+12:36:18.353 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:18.354 INFO  AUTOMATION - Teardown padre
+12:36:18.354 INFO  AUTOMATION - AfterEach: [17] Videojuego[id=17, nombre=THE LEGEND OF ZELDA, epoca=2011, precio=61.23, duracion=60, genero=COMEDIA, empresa=NINTENDO]
+12:36:18.355 INFO  AUTOMATION - Test exitoso: [17] Videojuego[id=17, nombre=THE LEGEND OF ZELDA, epoca=2011, precio=61.23, duracion=60, genero=COMEDIA, empresa=NINTENDO]
+12:36:18.359 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:36:18.361 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:36:18.364 INFO  AUTOMATION - Buscando el cliente usando el ID
+12:36:18.364 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:18.365 INFO  AUTOMATION - Teardown padre
+12:36:18.365 INFO  AUTOMATION - AfterEach: [17] Cliente[id=USR-17, nombre=ANGELIQUE, apellido=DURGAN, edad=52, email=ANGELIQUE.DURGAN.31@HOTMAIL.COM, pais=SERBIA, universidad=NORTHERN NEBRASKA ACADEMY]
+12:36:18.365 INFO  AUTOMATION - Test exitoso: [17] Cliente[id=USR-17, nombre=ANGELIQUE, apellido=DURGAN, edad=52, email=ANGELIQUE.DURGAN.31@HOTMAIL.COM, pais=SERBIA, universidad=NORTHERN NEBRASKA ACADEMY]
+12:36:18.368 INFO  AUTOMATION - BeforeEach: [26] Cliente[id=USR-26, nombre=FEDERICO, apellido=ANKUNDING, edad=45, email=FEDERICO.ANKUNDING.48@OUTLOOK.COM, pais=MAURITANIA, universidad=EAST NEW YORK INSTITUTE]
+12:36:18.368 INFO  AUTOMATION - Setup padre
+12:36:18.369 INFO  AUTOMATION - Leyendo la lista de clientes
+12:36:18.373 INFO  AUTOMATION - BeforeEach: [18] Videojuego[id=18, nombre=THE WITCHER 3: WILD HUNT, epoca=2000, precio=56.42, duracion=45, genero=TERROR, empresa=PLAYSTATION]
+12:36:18.373 INFO  AUTOMATION - Setup padre
+12:36:18.374 INFO  AUTOMATION - Buscando el cliente usando el ID
+12:36:18.375 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:18.375 INFO  AUTOMATION - Teardown padre
+12:36:18.375 INFO  AUTOMATION - AfterEach: [14] Cliente[id=USR-14, nombre=NESTOR, apellido=DENESIK, edad=48, email=NESTOR.DENESIK.14@OUTLOOK.COM, pais=BAHRAIN, universidad=EASTERN BEIER]
+12:36:18.376 INFO  AUTOMATION - Test exitoso: [14] Cliente[id=USR-14, nombre=NESTOR, apellido=DENESIK, edad=48, email=NESTOR.DENESIK.14@OUTLOOK.COM, pais=BAHRAIN, universidad=EASTERN BEIER]
+12:36:18.398 INFO  AUTOMATION - BeforeEach: [20] Cliente[id=USR-20, nombre=CONCETTA, apellido=MILLS, edad=50, email=CONCETTA.MILLS.20@OUTLOOK.COM, pais=VANUATU, universidad=WESTERN OKLAHOMA INSTITUTE]
+12:36:18.403 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+12:36:18.406 INFO  AUTOMATION - BeforeEach: [21] Cliente[id=USR-21, nombre=MARY, apellido=JASKOLSKI, edad=32, email=MARY.JASKOLSKI.16@OUTLOOK.COM, pais=ARMENIA, universidad=EAST COLORADO UNIVERSITY]
+12:36:18.407 INFO  AUTOMATION - Setup padre
+12:36:18.411 INFO  AUTOMATION - Leyendo la lista de clientes
+12:36:18.413 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:36:18.407 INFO  AUTOMATION - Setup padre
+12:36:18.415 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:36:18.416 INFO  AUTOMATION - Leyendo la lista de clientes
+12:36:18.418 INFO  AUTOMATION - Buscando el cliente usando el ID
+12:36:18.418 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:18.419 INFO  AUTOMATION - Teardown padre
+12:36:18.419 INFO  AUTOMATION - AfterEach: [19] Cliente[id=USR-19, nombre=JANA, apellido=PROHASKA, edad=22, email=JANA.PROHASKA.32@APPLE.COM, pais=SUDAN, universidad=SOUTH ILLINOIS INSTITUTE]
+12:36:18.420 INFO  AUTOMATION - Test exitoso: [19] Cliente[id=USR-19, nombre=JANA, apellido=PROHASKA, edad=22, email=JANA.PROHASKA.32@APPLE.COM, pais=SUDAN, universidad=SOUTH ILLINOIS INSTITUTE]
+12:36:18.421 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:36:18.423 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:36:18.430 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:36:18.431 INFO  AUTOMATION - Buscando el videojuego usando el ID
+12:36:18.431 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:36:18.431 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:18.433 INFO  AUTOMATION - Teardown padre
+12:36:18.434 INFO  AUTOMATION - AfterEach: [18] Videojuego[id=18, nombre=THE WITCHER 3: WILD HUNT, epoca=2000, precio=56.42, duracion=45, genero=TERROR, empresa=PLAYSTATION]
+12:36:18.436 INFO  AUTOMATION - Test exitoso: [18] Videojuego[id=18, nombre=THE WITCHER 3: WILD HUNT, epoca=2000, precio=56.42, duracion=45, genero=TERROR, empresa=PLAYSTATION]
+12:36:18.463 INFO  AUTOMATION - BeforeEach: [22] Cliente[id=USR-22, nombre=ROSANNE, apellido=KUB, edad=31, email=ROSANNE.KUB.3@HOTMAIL.COM, pais=PAPUA NEW GUINEA, universidad=NORTHERN PENNSYLVANIA INSTITUTE]
+12:36:18.463 INFO  AUTOMATION - Setup padre
+12:36:18.464 INFO  AUTOMATION - Leyendo la lista de clientes
+12:36:18.472 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:36:18.473 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:36:18.477 INFO  AUTOMATION - Buscando el cliente usando el ID
+12:36:18.478 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:18.478 INFO  AUTOMATION - Teardown padre
+12:36:18.478 INFO  AUTOMATION - AfterEach: [26] Cliente[id=USR-26, nombre=FEDERICO, apellido=ANKUNDING, edad=45, email=FEDERICO.ANKUNDING.48@OUTLOOK.COM, pais=MAURITANIA, universidad=EAST NEW YORK INSTITUTE]
+12:36:18.479 INFO  AUTOMATION - Test exitoso: [26] Cliente[id=USR-26, nombre=FEDERICO, apellido=ANKUNDING, edad=45, email=FEDERICO.ANKUNDING.48@OUTLOOK.COM, pais=MAURITANIA, universidad=EAST NEW YORK INSTITUTE]
+12:36:18.495 INFO  AUTOMATION - BeforeEach: [19] Videojuego[id=19, nombre=VALHEIM, epoca=2013, precio=54.95, duracion=6, genero=COMEDIA, empresa=XBOX]
+12:36:18.496 INFO  AUTOMATION - Setup padre
+12:36:18.496 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+12:36:18.500 INFO  AUTOMATION - Buscando el videojuego usando el ID
+12:36:18.500 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:18.501 INFO  AUTOMATION - Teardown padre
+12:36:18.501 INFO  AUTOMATION - AfterEach: [19] Videojuego[id=19, nombre=VALHEIM, epoca=2013, precio=54.95, duracion=6, genero=COMEDIA, empresa=XBOX]
+12:36:18.501 INFO  AUTOMATION - Test exitoso: [19] Videojuego[id=19, nombre=VALHEIM, epoca=2013, precio=54.95, duracion=6, genero=COMEDIA, empresa=XBOX]
+12:36:18.506 INFO  AUTOMATION - BeforeEach: [28] Cliente[id=USR-28, nombre=TAM, apellido=SHIELDS, edad=49, email=TAM.SHIELDS.27@APPLE.COM, pais=LIECHTENSTEIN, universidad=NORTH SANFORD COLLEGE]
+12:36:18.507 INFO  AUTOMATION - Setup padre
+12:36:18.507 INFO  AUTOMATION - Leyendo la lista de clientes
+12:36:18.511 INFO  AUTOMATION - Buscando el cliente usando el ID
+12:36:18.511 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:18.512 INFO  AUTOMATION - Teardown padre
+12:36:18.512 INFO  AUTOMATION - AfterEach: [21] Cliente[id=USR-21, nombre=MARY, apellido=JASKOLSKI, edad=32, email=MARY.JASKOLSKI.16@OUTLOOK.COM, pais=ARMENIA, universidad=EAST COLORADO UNIVERSITY]
+12:36:18.512 INFO  AUTOMATION - Test exitoso: [21] Cliente[id=USR-21, nombre=MARY, apellido=JASKOLSKI, edad=32, email=MARY.JASKOLSKI.16@OUTLOOK.COM, pais=ARMENIA, universidad=EAST COLORADO UNIVERSITY]
+12:36:18.516 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:36:18.517 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:36:18.537 INFO  AUTOMATION - BeforeEach: [24] Cliente[id=USR-24, nombre=KEITH, apellido=MORISSETTE, edad=44, email=KEITH.MORISSETTE.1@OUTLOOK.COM, pais=CYPRUS, universidad=KSHLERIN ACADEMY]
+12:36:18.537 INFO  AUTOMATION - Setup padre
+12:36:18.537 INFO  AUTOMATION - Leyendo la lista de clientes
+12:36:18.546 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:36:18.547 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:36:18.553 INFO  AUTOMATION - Buscando el cliente usando el ID
+12:36:18.553 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:18.553 INFO  AUTOMATION - Teardown padre
+12:36:18.553 INFO  AUTOMATION - AfterEach: [20] Cliente[id=USR-20, nombre=CONCETTA, apellido=MILLS, edad=50, email=CONCETTA.MILLS.20@OUTLOOK.COM, pais=VANUATU, universidad=WESTERN OKLAHOMA INSTITUTE]
+12:36:18.554 INFO  AUTOMATION - Test exitoso: [20] Cliente[id=USR-20, nombre=CONCETTA, apellido=MILLS, edad=50, email=CONCETTA.MILLS.20@OUTLOOK.COM, pais=VANUATU, universidad=WESTERN OKLAHOMA INSTITUTE]
+12:36:18.560 INFO  AUTOMATION - Buscando el cliente usando el ID
+12:36:18.560 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:18.560 INFO  AUTOMATION - Teardown padre
+12:36:18.560 INFO  AUTOMATION - AfterEach: [22] Cliente[id=USR-22, nombre=ROSANNE, apellido=KUB, edad=31, email=ROSANNE.KUB.3@HOTMAIL.COM, pais=PAPUA NEW GUINEA, universidad=NORTHERN PENNSYLVANIA INSTITUTE]
+12:36:18.561 INFO  AUTOMATION - Test exitoso: [22] Cliente[id=USR-22, nombre=ROSANNE, apellido=KUB, edad=31, email=ROSANNE.KUB.3@HOTMAIL.COM, pais=PAPUA NEW GUINEA, universidad=NORTHERN PENNSYLVANIA INSTITUTE]
+12:36:18.568 INFO  AUTOMATION - Buscando el cliente usando el ID
+12:36:18.568 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:18.569 INFO  AUTOMATION - Teardown padre
+12:36:18.569 INFO  AUTOMATION - AfterEach: [28] Cliente[id=USR-28, nombre=TAM, apellido=SHIELDS, edad=49, email=TAM.SHIELDS.27@APPLE.COM, pais=LIECHTENSTEIN, universidad=NORTH SANFORD COLLEGE]
+12:36:18.569 INFO  AUTOMATION - Test exitoso: [28] Cliente[id=USR-28, nombre=TAM, apellido=SHIELDS, edad=49, email=TAM.SHIELDS.27@APPLE.COM, pais=LIECHTENSTEIN, universidad=NORTH SANFORD COLLEGE]
+12:36:18.577 INFO  AUTOMATION - BeforeEach: [20] Videojuego[id=20, nombre=FZERO, epoca=2001, precio=9.99, duracion=15, genero=TERROR, empresa=NINTENDO]
+12:36:18.579 INFO  AUTOMATION - Setup padre
+12:36:18.579 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+12:36:18.581 INFO  AUTOMATION - BeforeEach: [25] Cliente[id=USR-25, nombre=BRONWYN, apellido=MCGLYNN, edad=26, email=BRONWYN.MCGLYNN.12@APPLE.COM, pais=SLOVENIA, universidad=EASTERN CROOKS]
+12:36:18.581 INFO  AUTOMATION - Setup padre
+12:36:18.582 INFO  AUTOMATION - Leyendo la lista de clientes
+12:36:18.582 INFO  AUTOMATION - Buscando el videojuego usando el ID
+12:36:18.583 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:18.583 INFO  AUTOMATION - Teardown padre
+12:36:18.583 INFO  AUTOMATION - AfterEach: [20] Videojuego[id=20, nombre=FZERO, epoca=2001, precio=9.99, duracion=15, genero=TERROR, empresa=NINTENDO]
+12:36:18.584 INFO  AUTOMATION - Test exitoso: [20] Videojuego[id=20, nombre=FZERO, epoca=2001, precio=9.99, duracion=15, genero=TERROR, empresa=NINTENDO]
+12:36:18.585 INFO  AUTOMATION - BeforeEach: [27] Cliente[id=USR-27, nombre=LOTTIE, apellido=RUNOLFSSON, edad=56, email=LOTTIE.RUNOLFSSON.8@GMAIL.COM, pais=TONGA, universidad=DAUGHERTY UNIVERSITY]
+12:36:18.585 INFO  AUTOMATION - Setup padre
+12:36:18.586 INFO  AUTOMATION - Leyendo la lista de clientes
+12:36:18.595 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:36:18.597 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:36:18.598 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:36:18.602 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:36:18.614 INFO  AUTOMATION - BeforeEach: [29] Cliente[id=USR-29, nombre=KATI, apellido=O'REILLY, edad=34, email=KATI.O'REILLY.7@GMAIL.COM, pais=KAZAKHSTAN, universidad=NORTHERN PACOCHA INSTITUTE]
+12:36:18.615 INFO  AUTOMATION - Setup padre
+12:36:18.615 INFO  AUTOMATION - Leyendo la lista de clientes
+12:36:18.624 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:36:18.625 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:36:18.628 INFO  AUTOMATION - BeforeEach: [1] Videojuego[id=1, nombre=ASSASSIN'S CREED VALHALLA, epoca=2000, precio=59.22, duracion=48, genero=COMEDIA, empresa=NINTENDO]
+12:36:18.628 INFO  AUTOMATION - Setup padre
+12:36:18.629 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+12:36:18.650 INFO  AUTOMATION - Buscando el cliente usando el ID
+12:36:18.650 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:18.651 INFO  AUTOMATION - Teardown padre
+12:36:18.651 INFO  AUTOMATION - AfterEach: [24] Cliente[id=USR-24, nombre=KEITH, apellido=MORISSETTE, edad=44, email=KEITH.MORISSETTE.1@OUTLOOK.COM, pais=CYPRUS, universidad=KSHLERIN ACADEMY]
+12:36:18.652 INFO  AUTOMATION - Test exitoso: [24] Cliente[id=USR-24, nombre=KEITH, apellido=MORISSETTE, edad=44, email=KEITH.MORISSETTE.1@OUTLOOK.COM, pais=CYPRUS, universidad=KSHLERIN ACADEMY]
+12:36:18.657 INFO  AUTOMATION - Buscando el cliente usando el ID
+12:36:18.657 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:18.657 INFO  AUTOMATION - Teardown padre
+12:36:18.657 INFO  AUTOMATION - AfterEach: [25] Cliente[id=USR-25, nombre=BRONWYN, apellido=MCGLYNN, edad=26, email=BRONWYN.MCGLYNN.12@APPLE.COM, pais=SLOVENIA, universidad=EASTERN CROOKS]
+12:36:18.658 INFO  AUTOMATION - Test exitoso: [25] Cliente[id=USR-25, nombre=BRONWYN, apellido=MCGLYNN, edad=26, email=BRONWYN.MCGLYNN.12@APPLE.COM, pais=SLOVENIA, universidad=EASTERN CROOKS]
+12:36:18.676 INFO  AUTOMATION - BeforeEach: [2] Videojuego[id=2, nombre=BEYOND GOOD & EVIL 2, epoca=2014, precio=58.15, duracion=23, genero=ACCION, empresa=XBOX]
+12:36:18.676 INFO  AUTOMATION - Setup padre
+12:36:18.677 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+12:36:18.678 INFO  AUTOMATION - Buscando el videojuego usando el ID
+12:36:18.678 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:18.680 INFO  AUTOMATION - Buscando el videojuego usando el ID
+12:36:18.680 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:18.680 INFO  AUTOMATION - Teardown padre
+12:36:18.681 INFO  AUTOMATION - AfterEach: [2] Videojuego[id=2, nombre=BEYOND GOOD & EVIL 2, epoca=2014, precio=58.15, duracion=23, genero=ACCION, empresa=XBOX]
+12:36:18.680 INFO  AUTOMATION - Teardown padre
+12:36:18.681 INFO  AUTOMATION - AfterEach: [1] Videojuego[id=1, nombre=ASSASSIN'S CREED VALHALLA, epoca=2000, precio=59.22, duracion=48, genero=COMEDIA, empresa=NINTENDO]
+12:36:18.681 INFO  AUTOMATION - Test exitoso: [2] Videojuego[id=2, nombre=BEYOND GOOD & EVIL 2, epoca=2014, precio=58.15, duracion=23, genero=ACCION, empresa=XBOX]
+12:36:18.681 INFO  AUTOMATION - Test exitoso: [1] Videojuego[id=1, nombre=ASSASSIN'S CREED VALHALLA, epoca=2000, precio=59.22, duracion=48, genero=COMEDIA, empresa=NINTENDO]
+12:36:18.685 INFO  AUTOMATION - Buscando el cliente usando el ID
+12:36:18.685 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:18.686 INFO  AUTOMATION - Teardown padre
+12:36:18.686 INFO  AUTOMATION - AfterEach: [29] Cliente[id=USR-29, nombre=KATI, apellido=O'REILLY, edad=34, email=KATI.O'REILLY.7@GMAIL.COM, pais=KAZAKHSTAN, universidad=NORTHERN PACOCHA INSTITUTE]
+12:36:18.687 INFO  AUTOMATION - Test exitoso: [29] Cliente[id=USR-29, nombre=KATI, apellido=O'REILLY, edad=34, email=KATI.O'REILLY.7@GMAIL.COM, pais=KAZAKHSTAN, universidad=NORTHERN PACOCHA INSTITUTE]
+12:36:18.692 INFO  AUTOMATION - Buscando el cliente usando el ID
+12:36:18.694 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:18.697 INFO  AUTOMATION - BeforeEach: [3] Videojuego[id=3, nombre=BLUE PROTOCOL, epoca=2008, precio=57.45, duracion=60, genero=TERROR, empresa=XBOX]
+12:36:18.698 INFO  AUTOMATION - Setup padre
+12:36:18.698 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+12:36:18.701 INFO  AUTOMATION - Buscando el videojuego usando el ID
+12:36:18.701 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:18.703 INFO  AUTOMATION - Teardown padre
+12:36:18.703 INFO  AUTOMATION - AfterEach: [3] Videojuego[id=3, nombre=BLUE PROTOCOL, epoca=2008, precio=57.45, duracion=60, genero=TERROR, empresa=XBOX]
+12:36:18.703 INFO  AUTOMATION - Test exitoso: [3] Videojuego[id=3, nombre=BLUE PROTOCOL, epoca=2008, precio=57.45, duracion=60, genero=TERROR, empresa=XBOX]
+12:36:18.710 INFO  AUTOMATION - BeforeEach: [4] Videojuego[id=4, nombre=DEAD ISLAND 2, epoca=2020, precio=55.05, duracion=45, genero=COMEDIA, empresa=XBOX]
+12:36:18.711 INFO  AUTOMATION - Setup padre
+12:36:18.711 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+12:36:18.716 INFO  AUTOMATION - Buscando el videojuego usando el ID
+12:36:18.717 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:18.717 INFO  AUTOMATION - Teardown padre
+12:36:18.717 INFO  AUTOMATION - AfterEach: [4] Videojuego[id=4, nombre=DEAD ISLAND 2, epoca=2020, precio=55.05, duracion=45, genero=COMEDIA, empresa=XBOX]
+12:36:18.718 INFO  AUTOMATION - Test exitoso: [4] Videojuego[id=4, nombre=DEAD ISLAND 2, epoca=2020, precio=55.05, duracion=45, genero=COMEDIA, empresa=XBOX]
+12:36:18.723 INFO  AUTOMATION - Teardown padre
+12:36:18.724 INFO  AUTOMATION - AfterEach: [27] Cliente[id=USR-27, nombre=LOTTIE, apellido=RUNOLFSSON, edad=56, email=LOTTIE.RUNOLFSSON.8@GMAIL.COM, pais=TONGA, universidad=DAUGHERTY UNIVERSITY]
+12:36:18.725 INFO  AUTOMATION - Test exitoso: [27] Cliente[id=USR-27, nombre=LOTTIE, apellido=RUNOLFSSON, edad=56, email=LOTTIE.RUNOLFSSON.8@GMAIL.COM, pais=TONGA, universidad=DAUGHERTY UNIVERSITY]
+12:36:18.728 INFO  AUTOMATION - BeforeEach: [5] Videojuego[id=5, nombre=ELDEN RING, epoca=2011, precio=56.7, duracion=14, genero=COMEDIA, empresa=XBOX]
+12:36:18.728 INFO  AUTOMATION - Setup padre
+12:36:18.728 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+12:36:18.731 INFO  AUTOMATION - Buscando el videojuego usando el ID
+12:36:18.732 INFO  AUTOMATION - Verificamos la información del cliente
+12:36:18.732 INFO  AUTOMATION - Teardown padre
+12:36:18.732 INFO  AUTOMATION - AfterEach: [5] Videojuego[id=5, nombre=ELDEN RING, epoca=2011, precio=56.7, duracion=14, genero=COMEDIA, empresa=XBOX]
+12:36:18.733 INFO  AUTOMATION - Test exitoso: [5] Videojuego[id=5, nombre=ELDEN RING, epoca=2011, precio=56.7, duracion=14, genero=COMEDIA, empresa=XBOX]

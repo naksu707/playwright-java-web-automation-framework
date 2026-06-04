@@ -1,1 +1,1 @@
-./mvnw clean test -Dgroups="regression" surefire-report:report
+./mvnw clean test -Dgroups="regression"

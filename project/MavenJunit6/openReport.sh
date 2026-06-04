@@ -1,1 +1,1 @@
-start target/reports/surefire.html
+./mvnw allure:serve
