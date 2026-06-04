@@ -9,6 +9,8 @@ import blass.academy.utils.Logs;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
+import org.junit.jupiter.params.ParameterizedTest;
+import org.junit.jupiter.params.provider.MethodSource;
 
 import java.util.Comparator;
 import java.util.List;
@@ -84,4 +86,21 @@ public class ClienteTests extends BaseTest {
     void desabilitadoTest() {
         Logs.info("Hola clientes");
     }
+
+    @ParameterizedTest
+    @MethodSource("blass.academy.data.CustomData#obtenerParametrosClientes")
+    @Regression
+    void clienteParametrizadoTest(Cliente clienteEsperado) {
+        Logs.info("Buscando el cliente usando el ID");
+        final var clienteActual = clientes
+                .stream()
+                .filter(Cliente -> Cliente.id().equals(clienteEsperado.id()))
+                .findFirst()
+                .orElseThrow();
+
+        Logs.info("Verificamos la información del cliente");
+        assertEquals(clienteEsperado, clienteActual, String.format("Cliente con ID erroneo"));
+    }
 }
+
+

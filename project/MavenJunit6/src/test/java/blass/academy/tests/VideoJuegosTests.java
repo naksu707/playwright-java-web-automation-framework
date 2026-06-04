@@ -9,6 +9,8 @@ import blass.academy.utils.Logs;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
+import org.junit.jupiter.params.ParameterizedTest;
+import org.junit.jupiter.params.provider.MethodSource;
 
 import java.util.Comparator;
 import java.util.List;
@@ -80,5 +82,20 @@ public class VideoJuegosTests extends BaseTest {
     @Disabled("Test deshabilitado por falta de data")
     void desabilitadoTest() {
         Logs.info("Hola videojuegos");
+    }
+
+    @ParameterizedTest
+    @MethodSource("blass.academy.data.CustomData#obtenerParametrosVideojuegos")
+    @Regression
+    void videojuegoParametrizadoTest(Videojuego videojuegoEsperado) {
+        Logs.info("Buscando el videojuego usando el ID");
+        final var viedojuegoActual = videojuegos
+                .stream()
+                .filter(videojuego -> videojuego.id() == videojuegoEsperado.id())
+                .findFirst()
+                .orElseThrow();
+
+        Logs.info("Verificamos la información del cliente");
+        assertEquals(videojuegoEsperado, viedojuegoActual, String.format("Videojuego con ID erroneo"));
     }
 }

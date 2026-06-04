@@ -1,15 +1,149 @@
-10:35:40.109 INFO  AUTOMATION - Setup padre
-10:35:40.118 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-10:35:40.835 INFO  AUTOMATION - Obteniendo la cantidad de videojuegos de XBOX
-10:35:40.835 INFO  AUTOMATION - Verificar que la cantidad sea 7
-10:35:40.842 INFO  AUTOMATION - Teardown padre
-10:35:40.980 INFO  AUTOMATION - Setup padre
-10:35:40.981 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-10:35:40.986 INFO  AUTOMATION - Obteniendo el videojuegos con mayor duración
-10:35:40.987 INFO  AUTOMATION - Verificando el videojuego más largo
-10:35:40.992 INFO  AUTOMATION - Teardown padre
-10:35:41.002 INFO  AUTOMATION - Setup padre
-10:35:41.003 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-10:35:41.007 INFO  AUTOMATION - Obteniendo el videojuegos con ID 14
-10:35:41.007 INFO  AUTOMATION - Verificando el viedo encontrado
-10:35:41.011 INFO  AUTOMATION - Teardown padre
+11:03:16.841 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:03:16.847 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:03:17.129 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+11:03:17.132 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+11:03:17.134 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+11:03:17.135 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+11:03:17.136 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+11:03:17.138 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+11:03:17.168 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+11:03:17.169 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+11:03:17.175 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+11:03:17.176 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+11:03:17.176 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+11:03:17.177 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+11:03:17.177 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+11:03:17.178 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+11:03:17.241 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+11:03:17.241 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle themefd26doctype
+11:03:17.326 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+11:03:17.331 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctstylesheet4257type
+11:03:17.337 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfonts6623type
+11:03:17.340 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfont14d8type
+11:03:17.347 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfills2c6ftype
+11:03:17.350 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfill550ctype
+11:03:17.352 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborders0d66type
+11:03:17.355 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborderf935type
+11:03:17.358 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellxfs1322type
+11:03:17.360 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctxf97f7type
+11:03:17.364 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+11:03:17.366 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctdxfsb26atype
+11:03:17.368 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cttablestyles872ftype
+11:03:17.371 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle sstf81fdoctype
+11:03:17.377 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsst44f3type
+11:03:17.410 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrsta472type
+11:03:17.447 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle workbookec17doctype
+11:03:17.450 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworkbook83c3type
+11:03:17.464 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheets49fdtype
+11:03:17.467 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheet4dbetype
+11:03:17.470 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle strelationshipid1e94type
+11:03:17.472 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle worksheetf539doctype
+11:03:17.481 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworksheet530dtype
+11:03:17.493 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcols627ctype
+11:03:17.498 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcola95ftype
+11:03:17.512 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheetdata8408type
+11:03:17.514 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrowdd39type
+11:03:17.519 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcell842btype
+11:03:17.530 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcellrefe4e0type
+11:03:17.559 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+11:03:17.564 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcelltypebf95type
+11:03:17.747 INFO  AUTOMATION - Setup padre
+11:03:17.749 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+11:03:18.324 INFO  AUTOMATION - Buscando el videojuego usando el ID
+11:03:18.325 INFO  AUTOMATION - Verificamos la información del cliente
+11:03:18.334 INFO  AUTOMATION - Teardown padre
+11:03:18.451 INFO  AUTOMATION - Setup padre
+11:03:18.452 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+11:03:18.455 INFO  AUTOMATION - Buscando el videojuego usando el ID
+11:03:18.456 INFO  AUTOMATION - Verificamos la información del cliente
+11:03:18.456 INFO  AUTOMATION - Teardown padre
+11:03:18.464 INFO  AUTOMATION - Setup padre
+11:03:18.464 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+11:03:18.468 INFO  AUTOMATION - Buscando el videojuego usando el ID
+11:03:18.468 INFO  AUTOMATION - Verificamos la información del cliente
+11:03:18.468 INFO  AUTOMATION - Teardown padre
+11:03:18.477 INFO  AUTOMATION - Setup padre
+11:03:18.477 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+11:03:18.480 INFO  AUTOMATION - Buscando el videojuego usando el ID
+11:03:18.480 INFO  AUTOMATION - Verificamos la información del cliente
+11:03:18.480 INFO  AUTOMATION - Teardown padre
+11:03:18.489 INFO  AUTOMATION - Setup padre
+11:03:18.489 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+11:03:18.492 INFO  AUTOMATION - Buscando el videojuego usando el ID
+11:03:18.492 INFO  AUTOMATION - Verificamos la información del cliente
+11:03:18.492 INFO  AUTOMATION - Teardown padre
+11:03:18.501 INFO  AUTOMATION - Setup padre
+11:03:18.501 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+11:03:18.504 INFO  AUTOMATION - Buscando el videojuego usando el ID
+11:03:18.504 INFO  AUTOMATION - Verificamos la información del cliente
+11:03:18.505 INFO  AUTOMATION - Teardown padre
+11:03:18.512 INFO  AUTOMATION - Setup padre
+11:03:18.513 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+11:03:18.516 INFO  AUTOMATION - Buscando el videojuego usando el ID
+11:03:18.516 INFO  AUTOMATION - Verificamos la información del cliente
+11:03:18.517 INFO  AUTOMATION - Teardown padre
+11:03:18.525 INFO  AUTOMATION - Setup padre
+11:03:18.525 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+11:03:18.527 INFO  AUTOMATION - Buscando el videojuego usando el ID
+11:03:18.528 INFO  AUTOMATION - Verificamos la información del cliente
+11:03:18.528 INFO  AUTOMATION - Teardown padre
+11:03:18.536 INFO  AUTOMATION - Setup padre
+11:03:18.536 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+11:03:18.539 INFO  AUTOMATION - Buscando el videojuego usando el ID
+11:03:18.540 INFO  AUTOMATION - Verificamos la información del cliente
+11:03:18.540 INFO  AUTOMATION - Teardown padre
+11:03:18.548 INFO  AUTOMATION - Setup padre
+11:03:18.549 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+11:03:18.551 INFO  AUTOMATION - Buscando el videojuego usando el ID
+11:03:18.552 INFO  AUTOMATION - Verificamos la información del cliente
+11:03:18.552 INFO  AUTOMATION - Teardown padre
+11:03:18.559 INFO  AUTOMATION - Setup padre
+11:03:18.559 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+11:03:18.562 INFO  AUTOMATION - Buscando el videojuego usando el ID
+11:03:18.562 INFO  AUTOMATION - Verificamos la información del cliente
+11:03:18.562 INFO  AUTOMATION - Teardown padre
+11:03:18.570 INFO  AUTOMATION - Setup padre
+11:03:18.570 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+11:03:18.572 INFO  AUTOMATION - Buscando el videojuego usando el ID
+11:03:18.572 INFO  AUTOMATION - Verificamos la información del cliente
+11:03:18.573 INFO  AUTOMATION - Teardown padre
+11:03:18.579 INFO  AUTOMATION - Setup padre
+11:03:18.580 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+11:03:18.582 INFO  AUTOMATION - Buscando el videojuego usando el ID
+11:03:18.583 INFO  AUTOMATION - Verificamos la información del cliente
+11:03:18.583 INFO  AUTOMATION - Teardown padre
+11:03:18.590 INFO  AUTOMATION - Setup padre
+11:03:18.590 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+11:03:18.592 INFO  AUTOMATION - Buscando el videojuego usando el ID
+11:03:18.592 INFO  AUTOMATION - Verificamos la información del cliente
+11:03:18.593 INFO  AUTOMATION - Teardown padre
+11:03:18.599 INFO  AUTOMATION - Setup padre
+11:03:18.599 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+11:03:18.601 INFO  AUTOMATION - Buscando el videojuego usando el ID
+11:03:18.601 INFO  AUTOMATION - Verificamos la información del cliente
+11:03:18.601 INFO  AUTOMATION - Teardown padre
+11:03:18.607 INFO  AUTOMATION - Setup padre
+11:03:18.607 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+11:03:18.610 INFO  AUTOMATION - Buscando el videojuego usando el ID
+11:03:18.610 INFO  AUTOMATION - Verificamos la información del cliente
+11:03:18.610 INFO  AUTOMATION - Teardown padre
+11:03:18.617 INFO  AUTOMATION - Setup padre
+11:03:18.618 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+11:03:18.621 INFO  AUTOMATION - Buscando el videojuego usando el ID
+11:03:18.621 INFO  AUTOMATION - Verificamos la información del cliente
+11:03:18.621 INFO  AUTOMATION - Teardown padre
+11:03:18.630 INFO  AUTOMATION - Setup padre
+11:03:18.630 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+11:03:18.632 INFO  AUTOMATION - Buscando el videojuego usando el ID
+11:03:18.632 INFO  AUTOMATION - Verificamos la información del cliente
+11:03:18.633 INFO  AUTOMATION - Teardown padre
+11:03:18.640 INFO  AUTOMATION - Setup padre
+11:03:18.641 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+11:03:18.643 INFO  AUTOMATION - Buscando el videojuego usando el ID
+11:03:18.643 INFO  AUTOMATION - Verificamos la información del cliente
+11:03:18.644 INFO  AUTOMATION - Teardown padre
+11:03:18.651 INFO  AUTOMATION - Setup padre
+11:03:18.651 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+11:03:18.654 INFO  AUTOMATION - Buscando el videojuego usando el ID
+11:03:18.655 INFO  AUTOMATION - Verificamos la información del cliente
+11:03:18.655 INFO  AUTOMATION - Teardown padre

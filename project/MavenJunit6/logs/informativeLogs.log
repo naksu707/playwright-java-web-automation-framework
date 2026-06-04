@@ -1,15 +1,100 @@
-10:35:40.109 INFO  AUTOMATION - Setup padre
-10:35:40.118 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-10:35:40.835 INFO  AUTOMATION - Obteniendo la cantidad de videojuegos de XBOX
-10:35:40.835 INFO  AUTOMATION - Verificar que la cantidad sea 7
-10:35:40.842 INFO  AUTOMATION - Teardown padre
-10:35:40.980 INFO  AUTOMATION - Setup padre
-10:35:40.981 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-10:35:40.986 INFO  AUTOMATION - Obteniendo el videojuegos con mayor duración
-10:35:40.987 INFO  AUTOMATION - Verificando el videojuego más largo
-10:35:40.992 INFO  AUTOMATION - Teardown padre
-10:35:41.002 INFO  AUTOMATION - Setup padre
-10:35:41.003 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-10:35:41.007 INFO  AUTOMATION - Obteniendo el videojuegos con ID 14
-10:35:41.007 INFO  AUTOMATION - Verificando el viedo encontrado
-10:35:41.011 INFO  AUTOMATION - Teardown padre
+11:03:17.747 INFO  AUTOMATION - Setup padre
+11:03:17.749 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+11:03:18.324 INFO  AUTOMATION - Buscando el videojuego usando el ID
+11:03:18.325 INFO  AUTOMATION - Verificamos la información del cliente
+11:03:18.334 INFO  AUTOMATION - Teardown padre
+11:03:18.451 INFO  AUTOMATION - Setup padre
+11:03:18.452 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+11:03:18.455 INFO  AUTOMATION - Buscando el videojuego usando el ID
+11:03:18.456 INFO  AUTOMATION - Verificamos la información del cliente
+11:03:18.456 INFO  AUTOMATION - Teardown padre
+11:03:18.464 INFO  AUTOMATION - Setup padre
+11:03:18.464 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+11:03:18.468 INFO  AUTOMATION - Buscando el videojuego usando el ID
+11:03:18.468 INFO  AUTOMATION - Verificamos la información del cliente
+11:03:18.468 INFO  AUTOMATION - Teardown padre
+11:03:18.477 INFO  AUTOMATION - Setup padre
+11:03:18.477 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+11:03:18.480 INFO  AUTOMATION - Buscando el videojuego usando el ID
+11:03:18.480 INFO  AUTOMATION - Verificamos la información del cliente
+11:03:18.480 INFO  AUTOMATION - Teardown padre
+11:03:18.489 INFO  AUTOMATION - Setup padre
+11:03:18.489 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+11:03:18.492 INFO  AUTOMATION - Buscando el videojuego usando el ID
+11:03:18.492 INFO  AUTOMATION - Verificamos la información del cliente
+11:03:18.492 INFO  AUTOMATION - Teardown padre
+11:03:18.501 INFO  AUTOMATION - Setup padre
+11:03:18.501 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+11:03:18.504 INFO  AUTOMATION - Buscando el videojuego usando el ID
+11:03:18.504 INFO  AUTOMATION - Verificamos la información del cliente
+11:03:18.505 INFO  AUTOMATION - Teardown padre
+11:03:18.512 INFO  AUTOMATION - Setup padre
+11:03:18.513 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+11:03:18.516 INFO  AUTOMATION - Buscando el videojuego usando el ID
+11:03:18.516 INFO  AUTOMATION - Verificamos la información del cliente
+11:03:18.517 INFO  AUTOMATION - Teardown padre
+11:03:18.525 INFO  AUTOMATION - Setup padre
+11:03:18.525 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+11:03:18.527 INFO  AUTOMATION - Buscando el videojuego usando el ID
+11:03:18.528 INFO  AUTOMATION - Verificamos la información del cliente
+11:03:18.528 INFO  AUTOMATION - Teardown padre
+11:03:18.536 INFO  AUTOMATION - Setup padre
+11:03:18.536 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+11:03:18.539 INFO  AUTOMATION - Buscando el videojuego usando el ID
+11:03:18.540 INFO  AUTOMATION - Verificamos la información del cliente
+11:03:18.540 INFO  AUTOMATION - Teardown padre
+11:03:18.548 INFO  AUTOMATION - Setup padre
+11:03:18.549 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+11:03:18.551 INFO  AUTOMATION - Buscando el videojuego usando el ID
+11:03:18.552 INFO  AUTOMATION - Verificamos la información del cliente
+11:03:18.552 INFO  AUTOMATION - Teardown padre
+11:03:18.559 INFO  AUTOMATION - Setup padre
+11:03:18.559 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+11:03:18.562 INFO  AUTOMATION - Buscando el videojuego usando el ID
+11:03:18.562 INFO  AUTOMATION - Verificamos la información del cliente
+11:03:18.562 INFO  AUTOMATION - Teardown padre
+11:03:18.570 INFO  AUTOMATION - Setup padre
+11:03:18.570 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+11:03:18.572 INFO  AUTOMATION - Buscando el videojuego usando el ID
+11:03:18.572 INFO  AUTOMATION - Verificamos la información del cliente
+11:03:18.573 INFO  AUTOMATION - Teardown padre
+11:03:18.579 INFO  AUTOMATION - Setup padre
+11:03:18.580 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+11:03:18.582 INFO  AUTOMATION - Buscando el videojuego usando el ID
+11:03:18.583 INFO  AUTOMATION - Verificamos la información del cliente
+11:03:18.583 INFO  AUTOMATION - Teardown padre
+11:03:18.590 INFO  AUTOMATION - Setup padre
+11:03:18.590 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+11:03:18.592 INFO  AUTOMATION - Buscando el videojuego usando el ID
+11:03:18.592 INFO  AUTOMATION - Verificamos la información del cliente
+11:03:18.593 INFO  AUTOMATION - Teardown padre
+11:03:18.599 INFO  AUTOMATION - Setup padre
+11:03:18.599 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+11:03:18.601 INFO  AUTOMATION - Buscando el videojuego usando el ID
+11:03:18.601 INFO  AUTOMATION - Verificamos la información del cliente
+11:03:18.601 INFO  AUTOMATION - Teardown padre
+11:03:18.607 INFO  AUTOMATION - Setup padre
+11:03:18.607 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+11:03:18.610 INFO  AUTOMATION - Buscando el videojuego usando el ID
+11:03:18.610 INFO  AUTOMATION - Verificamos la información del cliente
+11:03:18.610 INFO  AUTOMATION - Teardown padre
+11:03:18.617 INFO  AUTOMATION - Setup padre
+11:03:18.618 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+11:03:18.621 INFO  AUTOMATION - Buscando el videojuego usando el ID
+11:03:18.621 INFO  AUTOMATION - Verificamos la información del cliente
+11:03:18.621 INFO  AUTOMATION - Teardown padre
+11:03:18.630 INFO  AUTOMATION - Setup padre
+11:03:18.630 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+11:03:18.632 INFO  AUTOMATION - Buscando el videojuego usando el ID
+11:03:18.632 INFO  AUTOMATION - Verificamos la información del cliente
+11:03:18.633 INFO  AUTOMATION - Teardown padre
+11:03:18.640 INFO  AUTOMATION - Setup padre
+11:03:18.641 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+11:03:18.643 INFO  AUTOMATION - Buscando el videojuego usando el ID
+11:03:18.643 INFO  AUTOMATION - Verificamos la información del cliente
+11:03:18.644 INFO  AUTOMATION - Teardown padre
+11:03:18.651 INFO  AUTOMATION - Setup padre
+11:03:18.651 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+11:03:18.654 INFO  AUTOMATION - Buscando el videojuego usando el ID
+11:03:18.655 INFO  AUTOMATION - Verificamos la información del cliente
+11:03:18.655 INFO  AUTOMATION - Teardown padre
