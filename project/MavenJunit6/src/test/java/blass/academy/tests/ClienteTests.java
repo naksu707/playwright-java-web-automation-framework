@@ -10,6 +10,7 @@ import org.junit.jupiter.api.Test;
 import java.util.Comparator;
 import java.util.List;
 
+import static org.junit.jupiter.api.Assertions.assertAll;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class ClienteTests extends BaseTest {
@@ -62,7 +63,12 @@ public class ClienteTests extends BaseTest {
                 .findFirst()
                 .orElseThrow();
 
-        Logs.info("Mostrando al cliente encontrado");
-        System.out.println(clienteBuscado);
+        Logs.info("Verificando el cliente encontrado");
+        assertAll(
+                () -> assertEquals("USR-22", clienteBuscado.id(), "ID incorrecto"),
+                () -> assertEquals("ROSANNE", clienteBuscado.nombre(), "Nombre incorrecto"),
+                () -> assertEquals("KUB", clienteBuscado.apellido(), "Apellido incorrecto"),
+                () -> assertEquals(31, clienteBuscado.edad(), "Edad incorrecto")
+        );
     }
 }

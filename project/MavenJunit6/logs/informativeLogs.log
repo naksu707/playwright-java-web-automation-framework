@@ -1,5 +1,5 @@
-10:02:40.664 INFO  AUTOMATION - Setup padre
-10:02:40.679 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-10:02:41.595 INFO  AUTOMATION - Obteniendo el videojuegos con mayor duración
-10:02:41.596 INFO  AUTOMATION - Verificando el videojuego más largo
-10:02:41.610 INFO  AUTOMATION - Teardown padre
+10:18:56.771 INFO  AUTOMATION - Setup padre
+10:18:56.781 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+10:18:57.672 INFO  AUTOMATION - Obteniendo el videojuegos con ID 14
+10:18:57.673 INFO  AUTOMATION - Verificando el viedo encontrado
+10:18:57.692 INFO  AUTOMATION - Teardown padre

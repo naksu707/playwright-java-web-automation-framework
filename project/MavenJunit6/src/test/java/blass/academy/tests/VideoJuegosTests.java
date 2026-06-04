@@ -10,6 +10,7 @@ import org.junit.jupiter.api.Test;
 import java.util.Comparator;
 import java.util.List;
 
+import static org.junit.jupiter.api.Assertions.assertAll;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class VideoJuegosTests extends BaseTest {
@@ -59,7 +60,12 @@ public class VideoJuegosTests extends BaseTest {
                 .findFirst()
                 .orElseThrow();
 
-        Logs.info("Mostrando el videojuego encontrado");
-        System.out.println(videojuegoBuscado);
+        Logs.info("Verificando el viedo encontrado");
+        assertAll(
+                () -> assertEquals(14, videojuegoBuscado.id(), "ID incorrecto"),
+                () -> assertEquals("METROID PRIME 4", videojuegoBuscado.nombre(), "Nombre incorrecto"),
+                () -> assertEquals(Videojuego.Genero.ACCION, videojuegoBuscado.genero(), "Genero incorrecto"),
+                () -> assertEquals(Videojuego.Empresa.NINTENDO, videojuegoBuscado.empresa(), "Empresa incorrecto")
+        );
     }
 }
