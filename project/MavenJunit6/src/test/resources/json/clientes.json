@@ -1,0 +1,263 @@
+[
+  {
+    "id": "USR-1",
+    "nombre": "MAGDALENE",
+    "apellido": "SAUER",
+    "edad": 31,
+    "email": "MAGDALENE.SAUER.26@HOTMAIL.COM",
+    "pais": "FINLAND",
+    "universidad": "EAST WILKINSON"
+  },
+  {
+    "id": "USR-2",
+    "nombre": "NOLAN",
+    "apellido": "STANTON",
+    "edad": 25,
+    "email": "NOLAN.STANTON.16@HOTMAIL.COM",
+    "pais": "ESWATINI",
+    "universidad": "BERNIER COLLEGE"
+  },
+  {
+    "id": "USR-3",
+    "nombre": "LEMUEL",
+    "apellido": "O'CONNER",
+    "edad": 43,
+    "email": "LEMUEL.O'CONNER.33@OUTLOOK.COM",
+    "pais": "PANAMA",
+    "universidad": "PREDOVIC COLLEGE"
+  },
+  {
+    "id": "USR-4",
+    "nombre": "KERSTIN",
+    "apellido": "KERTZMANN",
+    "edad": 49,
+    "email": "KERSTIN.KERTZMANN.8@APPLE.COM",
+    "pais": "ESWATINI",
+    "universidad": "SOUTHERN ORTIZ COLLEGE"
+  },
+  {
+    "id": "USR-5",
+    "nombre": "MIKKI",
+    "apellido": "FEEST",
+    "edad": 24,
+    "email": "MIKKI.FEEST.9@OUTLOOK.COM",
+    "pais": "VENEZUELA (BOLIVARIAN REPUBLIC OF)",
+    "universidad": "KOEPP UNIVERSITY"
+  },
+  {
+    "id": "USR-6",
+    "nombre": "CLAYTON",
+    "apellido": "RUSSEL",
+    "edad": 47,
+    "email": "CLAYTON.RUSSEL.31@HOTMAIL.COM",
+    "pais": "CANADA",
+    "universidad": "LINDGREN INSTITUTE"
+  },
+  {
+    "id": "USR-7",
+    "nombre": "MEAGAN",
+    "apellido": "CORWIN",
+    "edad": 23,
+    "email": "MEAGAN.CORWIN.30@APPLE.COM",
+    "pais": "UNITED ARAB EMIRATES",
+    "universidad": "WESTERN TERRY ACADEMY"
+  },
+  {
+    "id": "USR-8",
+    "nombre": "TONYA",
+    "apellido": "HAMMES",
+    "edad": 46,
+    "email": "TONYA.HAMMES.28@APPLE.COM",
+    "pais": "COLOMBIA",
+    "universidad": "NORTHERN REICHERT INSTITUTE"
+  },
+  {
+    "id": "USR-9",
+    "nombre": "EDUARDO",
+    "apellido": "HARBER",
+    "edad": 43,
+    "email": "EDUARDO.HARBER.41@GMAIL.COM",
+    "pais": "CABO VERDE",
+    "universidad": "NORTH ZIEMANN"
+  },
+  {
+    "id": "USR-10",
+    "nombre": "TYRONE",
+    "apellido": "MILLS",
+    "edad": 49,
+    "email": "TYRONE.MILLS.45@GMAIL.COM",
+    "pais": "PARAGUAY",
+    "universidad": "SOUTHERN ROHAN UNIVERSITY"
+  },
+  {
+    "id": "USR-11",
+    "nombre": "NICOLLE",
+    "apellido": "SENGER",
+    "edad": 43,
+    "email": "NICOLLE.SENGER.27@APPLE.COM",
+    "pais": "BHUTAN",
+    "universidad": "THE WISOKY"
+  },
+  {
+    "id": "USR-12",
+    "nombre": "CARTER",
+    "apellido": "GREENFELDER",
+    "edad": 44,
+    "email": "CARTER.GREENFELDER.24@GMAIL.COM",
+    "pais": "RUSSIAN FEDERATION",
+    "universidad": "CORKERY ACADEMY"
+  },
+  {
+    "id": "USR-13",
+    "nombre": "DELPHA",
+    "apellido": "REICHERT",
+    "edad": 34,
+    "email": "DELPHA.REICHERT.15@HOTMAIL.COM",
+    "pais": "AFGHANISTAN",
+    "universidad": "EAST PROSACCO"
+  },
+  {
+    "id": "USR-14",
+    "nombre": "NESTOR",
+    "apellido": "DENESIK",
+    "edad": 48,
+    "email": "NESTOR.DENESIK.14@OUTLOOK.COM",
+    "pais": "BAHRAIN",
+    "universidad": "EASTERN BEIER"
+  },
+  {
+    "id": "USR-15",
+    "nombre": "MADDIE",
+    "apellido": "HAMILL",
+    "edad": 44,
+    "email": "MADDIE.HAMILL.20@OUTLOOK.COM",
+    "pais": "SOUTH SUDAN",
+    "universidad": "EASTERN DONNELLY"
+  },
+  {
+    "id": "USR-16",
+    "nombre": "TRACEY",
+    "apellido": "LANGOSH",
+    "edad": 47,
+    "email": "TRACEY.LANGOSH.15@APPLE.COM",
+    "pais": "GUYANA",
+    "universidad": "HOPPE INSTITUTE"
+  },
+  {
+    "id": "USR-17",
+    "nombre": "ANGELIQUE",
+    "apellido": "DURGAN",
+    "edad": 52,
+    "email": "ANGELIQUE.DURGAN.31@HOTMAIL.COM",
+    "pais": "SERBIA",
+    "universidad": "NORTHERN NEBRASKA ACADEMY"
+  },
+  {
+    "id": "USR-18",
+    "nombre": "RODGER",
+    "apellido": "ANDERSON",
+    "edad": 38,
+    "email": "RODGER.ANDERSON.44@HOTMAIL.COM",
+    "pais": "TANZANIA, UNITED REPUBLIC OF",
+    "universidad": "HESSEL COLLEGE"
+  },
+  {
+    "id": "USR-19",
+    "nombre": "JANA",
+    "apellido": "PROHASKA",
+    "edad": 22,
+    "email": "JANA.PROHASKA.32@APPLE.COM",
+    "pais": "SUDAN",
+    "universidad": "SOUTH ILLINOIS INSTITUTE"
+  },
+  {
+    "id": "USR-20",
+    "nombre": "CONCETTA",
+    "apellido": "MILLS",
+    "edad": 50,
+    "email": "CONCETTA.MILLS.20@OUTLOOK.COM",
+    "pais": "VANUATU",
+    "universidad": "WESTERN OKLAHOMA INSTITUTE"
+  },
+  {
+    "id": "USR-21",
+    "nombre": "MARY",
+    "apellido": "JASKOLSKI",
+    "edad": 32,
+    "email": "MARY.JASKOLSKI.16@OUTLOOK.COM",
+    "pais": "ARMENIA",
+    "universidad": "EAST COLORADO UNIVERSITY"
+  },
+  {
+    "id": "USR-22",
+    "nombre": "ROSANNE",
+    "apellido": "KUB",
+    "edad": 31,
+    "email": "ROSANNE.KUB.3@HOTMAIL.COM",
+    "pais": "PAPUA NEW GUINEA",
+    "universidad": "NORTHERN PENNSYLVANIA INSTITUTE"
+  },
+  {
+    "id": "USR-23",
+    "nombre": "MEI",
+    "apellido": "KRAJCIK",
+    "edad": 38,
+    "email": "MEI.KRAJCIK.43@HOTMAIL.COM",
+    "pais": "EGYPT",
+    "universidad": "WESTERN DELAWARE INSTITUTE"
+  },
+  {
+    "id": "USR-24",
+    "nombre": "KEITH",
+    "apellido": "MORISSETTE",
+    "edad": 44,
+    "email": "KEITH.MORISSETTE.1@OUTLOOK.COM",
+    "pais": "CYPRUS",
+    "universidad": "KSHLERIN ACADEMY"
+  },
+  {
+    "id": "USR-25",
+    "nombre": "BRONWYN",
+    "apellido": "MCGLYNN",
+    "edad": 26,
+    "email": "BRONWYN.MCGLYNN.12@APPLE.COM",
+    "pais": "SLOVENIA",
+    "universidad": "EASTERN CROOKS"
+  },
+  {
+    "id": "USR-26",
+    "nombre": "FEDERICO",
+    "apellido": "ANKUNDING",
+    "edad": 45,
+    "email": "FEDERICO.ANKUNDING.48@OUTLOOK.COM",
+    "pais": "MAURITANIA",
+    "universidad": "EAST NEW YORK INSTITUTE"
+  },
+  {
+    "id": "USR-27",
+    "nombre": "LOTTIE",
+    "apellido": "RUNOLFSSON",
+    "edad": 56,
+    "email": "LOTTIE.RUNOLFSSON.8@GMAIL.COM",
+    "pais": "TONGA",
+    "universidad": "DAUGHERTY UNIVERSITY"
+  },
+  {
+    "id": "USR-28",
+    "nombre": "TAM",
+    "apellido": "SHIELDS",
+    "edad": 49,
+    "email": "TAM.SHIELDS.27@APPLE.COM",
+    "pais": "LIECHTENSTEIN",
+    "universidad": "NORTH SANFORD COLLEGE"
+  },
+  {
+    "id": "USR-29",
+    "nombre": "KATI",
+    "apellido": "O'REILLY",
+    "edad": 34,
+    "email": "KATI.O'REILLY.7@GMAIL.COM",
+    "pais": "KAZAKHSTAN",
+    "universidad": "NORTHERN PACOCHA INSTITUTE"
+  }
+]
