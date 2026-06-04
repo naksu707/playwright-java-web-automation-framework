@@ -1,9 +1,9 @@
-08:57:07.211 INFO  AUTOMATION - Leyendo la lista de clientes
-08:57:08.244 INFO  AUTOMATION - Encontrando mayores de 40
-08:57:08.246 INFO  AUTOMATION - Mostrando cantidad en consola
-08:57:08.375 INFO  AUTOMATION - Leyendo la lista de clientes
-08:57:08.452 INFO  AUTOMATION - Encontrando al cliente con el ID USR-22
-08:57:08.453 INFO  AUTOMATION - Mostrando al cliente encontrado
-08:57:08.479 INFO  AUTOMATION - Leyendo la lista de clientes
-08:57:08.536 INFO  AUTOMATION - Encontrando el primer cliente según nombre
-08:57:08.537 INFO  AUTOMATION - Mostrando al primer cliente en consola
+09:16:54.336 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+09:16:55.491 INFO  AUTOMATION - Obteniendo la cantidad de videojuegos de XBOX
+09:16:55.492 INFO  AUTOMATION - Mostrando la cantidad en consola
+09:16:56.038 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+09:16:56.048 INFO  AUTOMATION - Obteniendo el videojuegos con mayor duración
+09:16:56.050 INFO  AUTOMATION - Mostrando al videojuego más en consola
+09:16:56.157 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+09:16:56.177 INFO  AUTOMATION - Obteniendo el videojuegos con ID 14
+09:16:56.179 INFO  AUTOMATION - Mostrando el videojuego encontrado
