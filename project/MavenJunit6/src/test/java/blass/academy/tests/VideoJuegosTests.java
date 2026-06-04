@@ -1,10 +1,13 @@
 package blass.academy.tests;
 
+import blass.academy.anotaciones.Regression;
+import blass.academy.anotaciones.Smoke;
 import blass.academy.modelos.Videojuego;
 import blass.academy.utils.BaseTest;
 import blass.academy.utils.JsonManager;
 import blass.academy.utils.Logs;
 import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 
 import java.util.Comparator;
@@ -26,6 +29,8 @@ public class VideoJuegosTests extends BaseTest {
     }
 
     @Test
+    @Regression
+    @Smoke
     void xboxTest() {
         Logs.info("Obteniendo la cantidad de videojuegos de XBOX");
         final var cantidad = videojuegos
@@ -38,6 +43,7 @@ public class VideoJuegosTests extends BaseTest {
     }
 
     @Test
+    @Smoke
     void mayorDuracionTest() {
         Logs.info("Obteniendo el videojuegos con mayor duración");
         final var videojuegoLargo = videojuegos
@@ -52,6 +58,7 @@ public class VideoJuegosTests extends BaseTest {
     }
 
     @Test
+    @Regression
     void encontrarIDTest() {
         Logs.info("Obteniendo el videojuegos con ID 14");
         final var videojuegoBuscado = videojuegos
@@ -67,5 +74,11 @@ public class VideoJuegosTests extends BaseTest {
                 () -> assertEquals(Videojuego.Genero.ACCION, videojuegoBuscado.genero(), "Genero incorrecto"),
                 () -> assertEquals(Videojuego.Empresa.NINTENDO, videojuegoBuscado.empresa(), "Empresa incorrecto")
         );
+    }
+
+    @Test
+    @Disabled("Test deshabilitado por falta de data")
+    void desabilitadoTest() {
+        Logs.info("Hola videojuegos");
     }
 }

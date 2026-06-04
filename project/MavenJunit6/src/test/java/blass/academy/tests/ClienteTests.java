@@ -1,10 +1,13 @@
 package blass.academy.tests;
 
+import blass.academy.anotaciones.Regression;
+import blass.academy.anotaciones.Smoke;
 import blass.academy.modelos.Cliente;
 import blass.academy.utils.BaseTest;
 import blass.academy.utils.ExcelReader;
 import blass.academy.utils.Logs;
 import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 
 import java.util.Comparator;
@@ -27,6 +30,8 @@ public class ClienteTests extends BaseTest {
     }
 
     @Test
+    @Regression
+    @Smoke
     void mayores40Test() {
         Logs.info("Encontrando mayores de 40");
         final var cantidad = clientes
@@ -40,6 +45,7 @@ public class ClienteTests extends BaseTest {
     }
 
     @Test
+    @Smoke
     void minimoNombresTest() {
         Logs.info("Encontrando el primer cliente según nombre");
         final var cliente = clientes
@@ -55,6 +61,7 @@ public class ClienteTests extends BaseTest {
     }
 
     @Test
+    @Regression
     void encontrarIDTest() {
         Logs.info("Encontrando al cliente con el ID USR-22");
         final var clienteBuscado = clientes
@@ -70,5 +77,11 @@ public class ClienteTests extends BaseTest {
                 () -> assertEquals("KUB", clienteBuscado.apellido(), "Apellido incorrecto"),
                 () -> assertEquals(31, clienteBuscado.edad(), "Edad incorrecto")
         );
+    }
+
+    @Test
+    @Disabled("Test deshabilitado por falta de data")
+    void desabilitadoTest() {
+        Logs.info("Hola clientes");
     }
 }
