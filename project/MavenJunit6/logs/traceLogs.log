@@ -1,149 +1,57 @@
-11:03:16.841 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-11:03:16.847 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-11:03:17.129 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
-11:03:17.132 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
-11:03:17.134 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
-11:03:17.135 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
-11:03:17.136 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
-11:03:17.138 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
-11:03:17.168 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
-11:03:17.169 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
-11:03:17.175 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
-11:03:17.176 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
-11:03:17.176 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
-11:03:17.177 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
-11:03:17.177 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
-11:03:17.178 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
-11:03:17.241 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
-11:03:17.241 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle themefd26doctype
-11:03:17.326 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
-11:03:17.331 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctstylesheet4257type
-11:03:17.337 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfonts6623type
-11:03:17.340 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfont14d8type
-11:03:17.347 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfills2c6ftype
-11:03:17.350 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfill550ctype
-11:03:17.352 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborders0d66type
-11:03:17.355 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborderf935type
-11:03:17.358 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellxfs1322type
-11:03:17.360 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctxf97f7type
-11:03:17.364 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
-11:03:17.366 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctdxfsb26atype
-11:03:17.368 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cttablestyles872ftype
-11:03:17.371 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle sstf81fdoctype
-11:03:17.377 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsst44f3type
-11:03:17.410 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrsta472type
-11:03:17.447 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle workbookec17doctype
-11:03:17.450 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworkbook83c3type
-11:03:17.464 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheets49fdtype
-11:03:17.467 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheet4dbetype
-11:03:17.470 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle strelationshipid1e94type
-11:03:17.472 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle worksheetf539doctype
-11:03:17.481 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworksheet530dtype
-11:03:17.493 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcols627ctype
-11:03:17.498 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcola95ftype
-11:03:17.512 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheetdata8408type
-11:03:17.514 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrowdd39type
-11:03:17.519 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcell842btype
-11:03:17.530 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcellrefe4e0type
-11:03:17.559 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
-11:03:17.564 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcelltypebf95type
-11:03:17.747 INFO  AUTOMATION - Setup padre
-11:03:17.749 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:03:18.324 INFO  AUTOMATION - Buscando el videojuego usando el ID
-11:03:18.325 INFO  AUTOMATION - Verificamos la información del cliente
-11:03:18.334 INFO  AUTOMATION - Teardown padre
-11:03:18.451 INFO  AUTOMATION - Setup padre
-11:03:18.452 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:03:18.455 INFO  AUTOMATION - Buscando el videojuego usando el ID
-11:03:18.456 INFO  AUTOMATION - Verificamos la información del cliente
-11:03:18.456 INFO  AUTOMATION - Teardown padre
-11:03:18.464 INFO  AUTOMATION - Setup padre
-11:03:18.464 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:03:18.468 INFO  AUTOMATION - Buscando el videojuego usando el ID
-11:03:18.468 INFO  AUTOMATION - Verificamos la información del cliente
-11:03:18.468 INFO  AUTOMATION - Teardown padre
-11:03:18.477 INFO  AUTOMATION - Setup padre
-11:03:18.477 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:03:18.480 INFO  AUTOMATION - Buscando el videojuego usando el ID
-11:03:18.480 INFO  AUTOMATION - Verificamos la información del cliente
-11:03:18.480 INFO  AUTOMATION - Teardown padre
-11:03:18.489 INFO  AUTOMATION - Setup padre
-11:03:18.489 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:03:18.492 INFO  AUTOMATION - Buscando el videojuego usando el ID
-11:03:18.492 INFO  AUTOMATION - Verificamos la información del cliente
-11:03:18.492 INFO  AUTOMATION - Teardown padre
-11:03:18.501 INFO  AUTOMATION - Setup padre
-11:03:18.501 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:03:18.504 INFO  AUTOMATION - Buscando el videojuego usando el ID
-11:03:18.504 INFO  AUTOMATION - Verificamos la información del cliente
-11:03:18.505 INFO  AUTOMATION - Teardown padre
-11:03:18.512 INFO  AUTOMATION - Setup padre
-11:03:18.513 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:03:18.516 INFO  AUTOMATION - Buscando el videojuego usando el ID
-11:03:18.516 INFO  AUTOMATION - Verificamos la información del cliente
-11:03:18.517 INFO  AUTOMATION - Teardown padre
-11:03:18.525 INFO  AUTOMATION - Setup padre
-11:03:18.525 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:03:18.527 INFO  AUTOMATION - Buscando el videojuego usando el ID
-11:03:18.528 INFO  AUTOMATION - Verificamos la información del cliente
-11:03:18.528 INFO  AUTOMATION - Teardown padre
-11:03:18.536 INFO  AUTOMATION - Setup padre
-11:03:18.536 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:03:18.539 INFO  AUTOMATION - Buscando el videojuego usando el ID
-11:03:18.540 INFO  AUTOMATION - Verificamos la información del cliente
-11:03:18.540 INFO  AUTOMATION - Teardown padre
-11:03:18.548 INFO  AUTOMATION - Setup padre
-11:03:18.549 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:03:18.551 INFO  AUTOMATION - Buscando el videojuego usando el ID
-11:03:18.552 INFO  AUTOMATION - Verificamos la información del cliente
-11:03:18.552 INFO  AUTOMATION - Teardown padre
-11:03:18.559 INFO  AUTOMATION - Setup padre
-11:03:18.559 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:03:18.562 INFO  AUTOMATION - Buscando el videojuego usando el ID
-11:03:18.562 INFO  AUTOMATION - Verificamos la información del cliente
-11:03:18.562 INFO  AUTOMATION - Teardown padre
-11:03:18.570 INFO  AUTOMATION - Setup padre
-11:03:18.570 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:03:18.572 INFO  AUTOMATION - Buscando el videojuego usando el ID
-11:03:18.572 INFO  AUTOMATION - Verificamos la información del cliente
-11:03:18.573 INFO  AUTOMATION - Teardown padre
-11:03:18.579 INFO  AUTOMATION - Setup padre
-11:03:18.580 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:03:18.582 INFO  AUTOMATION - Buscando el videojuego usando el ID
-11:03:18.583 INFO  AUTOMATION - Verificamos la información del cliente
-11:03:18.583 INFO  AUTOMATION - Teardown padre
-11:03:18.590 INFO  AUTOMATION - Setup padre
-11:03:18.590 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:03:18.592 INFO  AUTOMATION - Buscando el videojuego usando el ID
-11:03:18.592 INFO  AUTOMATION - Verificamos la información del cliente
-11:03:18.593 INFO  AUTOMATION - Teardown padre
-11:03:18.599 INFO  AUTOMATION - Setup padre
-11:03:18.599 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:03:18.601 INFO  AUTOMATION - Buscando el videojuego usando el ID
-11:03:18.601 INFO  AUTOMATION - Verificamos la información del cliente
-11:03:18.601 INFO  AUTOMATION - Teardown padre
-11:03:18.607 INFO  AUTOMATION - Setup padre
-11:03:18.607 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:03:18.610 INFO  AUTOMATION - Buscando el videojuego usando el ID
-11:03:18.610 INFO  AUTOMATION - Verificamos la información del cliente
-11:03:18.610 INFO  AUTOMATION - Teardown padre
-11:03:18.617 INFO  AUTOMATION - Setup padre
-11:03:18.618 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:03:18.621 INFO  AUTOMATION - Buscando el videojuego usando el ID
-11:03:18.621 INFO  AUTOMATION - Verificamos la información del cliente
-11:03:18.621 INFO  AUTOMATION - Teardown padre
-11:03:18.630 INFO  AUTOMATION - Setup padre
-11:03:18.630 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:03:18.632 INFO  AUTOMATION - Buscando el videojuego usando el ID
-11:03:18.632 INFO  AUTOMATION - Verificamos la información del cliente
-11:03:18.633 INFO  AUTOMATION - Teardown padre
-11:03:18.640 INFO  AUTOMATION - Setup padre
-11:03:18.641 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:03:18.643 INFO  AUTOMATION - Buscando el videojuego usando el ID
-11:03:18.643 INFO  AUTOMATION - Verificamos la información del cliente
-11:03:18.644 INFO  AUTOMATION - Teardown padre
-11:03:18.651 INFO  AUTOMATION - Setup padre
-11:03:18.651 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-11:03:18.654 INFO  AUTOMATION - Buscando el videojuego usando el ID
-11:03:18.655 INFO  AUTOMATION - Verificamos la información del cliente
-11:03:18.655 INFO  AUTOMATION - Teardown padre
+11:10:35.621 INFO  AUTOMATION - BeforeEach: mayores40Test()
+11:10:35.665 INFO  AUTOMATION - Setup padre
+11:10:35.672 INFO  AUTOMATION - Leyendo la lista de clientes
+11:10:36.020 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:10:36.023 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:10:36.508 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+11:10:36.513 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+11:10:36.515 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+11:10:36.517 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+11:10:36.518 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+11:10:36.519 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+11:10:36.539 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+11:10:36.540 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+11:10:36.545 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+11:10:36.546 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+11:10:36.547 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+11:10:36.549 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+11:10:36.549 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+11:10:36.550 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+11:10:36.607 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+11:10:36.608 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle themefd26doctype
+11:10:36.711 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+11:10:36.718 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctstylesheet4257type
+11:10:36.728 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfonts6623type
+11:10:36.731 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfont14d8type
+11:10:36.743 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfills2c6ftype
+11:10:36.747 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfill550ctype
+11:10:36.750 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborders0d66type
+11:10:36.753 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborderf935type
+11:10:36.759 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellxfs1322type
+11:10:36.764 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctxf97f7type
+11:10:36.772 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+11:10:36.775 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctdxfsb26atype
+11:10:36.779 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cttablestyles872ftype
+11:10:36.785 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle sstf81fdoctype
+11:10:36.795 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsst44f3type
+11:10:36.832 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrsta472type
+11:10:36.927 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle workbookec17doctype
+11:10:36.930 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworkbook83c3type
+11:10:36.947 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheets49fdtype
+11:10:36.950 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheet4dbetype
+11:10:36.953 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle strelationshipid1e94type
+11:10:36.955 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle worksheetf539doctype
+11:10:36.964 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworksheet530dtype
+11:10:36.979 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcols627ctype
+11:10:36.988 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcola95ftype
+11:10:37.037 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheetdata8408type
+11:10:37.042 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrowdd39type
+11:10:37.050 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcell842btype
+11:10:37.073 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcellrefe4e0type
+11:10:37.114 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+11:10:37.119 TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcelltypebf95type
+11:10:37.142 INFO  AUTOMATION - Encontrando mayores de 40
+11:10:37.142 INFO  AUTOMATION - Validar que hayan 17 elementos
+11:10:37.150 INFO  AUTOMATION - Teardown padre
+11:10:37.151 INFO  AUTOMATION - AfterEach: mayores40Test()
+11:10:37.157 INFO  AUTOMATION - Test exitoso: mayores40Test()
