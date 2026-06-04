@@ -1,0 +1,15 @@
+08:57:07.211 INFO  AUTOMATION - Leyendo la lista de clientes
+08:57:07.489 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:57:07.494 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:57:08.244 INFO  AUTOMATION - Encontrando mayores de 40
+08:57:08.246 INFO  AUTOMATION - Mostrando cantidad en consola
+08:57:08.375 INFO  AUTOMATION - Leyendo la lista de clientes
+08:57:08.385 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:57:08.387 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:57:08.452 INFO  AUTOMATION - Encontrando al cliente con el ID USR-22
+08:57:08.453 INFO  AUTOMATION - Mostrando al cliente encontrado
+08:57:08.479 INFO  AUTOMATION - Leyendo la lista de clientes
+08:57:08.489 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:57:08.490 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:57:08.536 INFO  AUTOMATION - Encontrando el primer cliente según nombre
+08:57:08.537 INFO  AUTOMATION - Mostrando al primer cliente en consola
