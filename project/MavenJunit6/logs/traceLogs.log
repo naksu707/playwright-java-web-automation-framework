@@ -1,9 +1,15 @@
-09:16:54.336 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-09:16:55.491 INFO  AUTOMATION - Obteniendo la cantidad de videojuegos de XBOX
-09:16:55.492 INFO  AUTOMATION - Mostrando la cantidad en consola
-09:16:56.038 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-09:16:56.048 INFO  AUTOMATION - Obteniendo el videojuegos con mayor duración
-09:16:56.050 INFO  AUTOMATION - Mostrando al videojuego más en consola
-09:16:56.157 INFO  AUTOMATION - Leyendo la lisa de videojuegos
-09:16:56.177 INFO  AUTOMATION - Obteniendo el videojuegos con ID 14
-09:16:56.179 INFO  AUTOMATION - Mostrando el videojuego encontrado
+09:23:57.775 INFO  AUTOMATION - Setup padre
+09:23:57.899 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+09:23:59.508 INFO  AUTOMATION - Obteniendo la cantidad de videojuegos de XBOX
+09:23:59.510 INFO  AUTOMATION - Mostrando la cantidad en consola
+09:23:59.515 INFO  AUTOMATION - Teardown padre
+09:23:59.786 INFO  AUTOMATION - Setup padre
+09:23:59.787 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+09:23:59.794 INFO  AUTOMATION - Obteniendo el videojuegos con mayor duración
+09:23:59.796 INFO  AUTOMATION - Mostrando al videojuego más en consola
+09:23:59.819 INFO  AUTOMATION - Teardown padre
+09:23:59.833 INFO  AUTOMATION - Setup padre
+09:23:59.834 INFO  AUTOMATION - Leyendo la lisa de videojuegos
+09:23:59.840 INFO  AUTOMATION - Obteniendo el videojuegos con ID 14
+09:23:59.841 INFO  AUTOMATION - Mostrando el videojuego encontrado
+09:23:59.844 INFO  AUTOMATION - Teardown padre

@@ -1,6 +1,7 @@
 package blass.academy.tests;
 
 import blass.academy.modelos.Videojuego;
+import blass.academy.utils.BaseTest;
 import blass.academy.utils.JsonManager;
 import blass.academy.utils.Logs;
 import org.junit.jupiter.api.BeforeEach;
@@ -9,7 +10,7 @@ import org.junit.jupiter.api.Test;
 import java.util.Comparator;
 import java.util.List;
 
-public class VideoJuegosTests {
+public class VideoJuegosTests extends BaseTest {
     private List<Videojuego> videojuegos;
 
     @BeforeEach
@@ -53,7 +54,7 @@ public class VideoJuegosTests {
                 .filter(videojuego -> videojuego.id() == 14)
                 .findFirst()
                 .orElseThrow();
-        
+
         Logs.info("Mostrando el videojuego encontrado");
         System.out.println(videojuegoBuscado);
     }

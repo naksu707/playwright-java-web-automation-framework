@@ -1,6 +1,7 @@
 package blass.academy.tests;
 
 import blass.academy.modelos.Cliente;
+import blass.academy.utils.BaseTest;
 import blass.academy.utils.ExcelReader;
 import blass.academy.utils.Logs;
 import org.junit.jupiter.api.BeforeEach;
@@ -9,7 +10,7 @@ import org.junit.jupiter.api.Test;
 import java.util.Comparator;
 import java.util.List;
 
-public class ClienteTests {
+public class ClienteTests extends BaseTest {
     private List<Cliente> clientes;
 
     @BeforeEach
