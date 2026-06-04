@@ -10,6 +10,8 @@ import org.junit.jupiter.api.Test;
 import java.util.Comparator;
 import java.util.List;
 
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
 public class VideoJuegosTests extends BaseTest {
     private List<Videojuego> videojuegos;
 
@@ -25,13 +27,13 @@ public class VideoJuegosTests extends BaseTest {
     @Test
     void xboxTest() {
         Logs.info("Obteniendo la cantidad de videojuegos de XBOX");
-        final var catidad = videojuegos
+        final var cantidad = videojuegos
                 .stream()
                 .filter(videojuego -> videojuego.empresa() == Videojuego.Empresa.XBOX)
                 .count();
 
-        Logs.info("Mostrando la cantidad en consola");
-        System.out.println(catidad);
+        Logs.info("Verificar que la cantidad sea 7");
+        assertEquals(7, cantidad, "No se tuvo la catidad esperada");
     }
 
     @Test
@@ -42,8 +44,10 @@ public class VideoJuegosTests extends BaseTest {
                 .max(Comparator.comparing(Videojuego::duracion))
                 .orElseThrow();
 
-        Logs.info("Mostrando al videojuego más en consola");
-        System.out.println(videojuegoLargo);
+        final var videojuegoEsperado = new Videojuego(3, "BLUE PROTOCOL", 2008, 57.45,
+                60, Videojuego.Genero.TERROR, Videojuego.Empresa.XBOX);
+        Logs.info("Verificando el videojuego más largo");
+        assertEquals(videojuegoEsperado, videojuegoLargo, "Videojuego incorrecto");
     }
 
     @Test

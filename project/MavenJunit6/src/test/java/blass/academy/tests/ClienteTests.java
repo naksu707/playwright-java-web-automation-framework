@@ -10,6 +10,8 @@ import org.junit.jupiter.api.Test;
 import java.util.Comparator;
 import java.util.List;
 
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
 public class ClienteTests extends BaseTest {
     private List<Cliente> clientes;
 
@@ -31,8 +33,9 @@ public class ClienteTests extends BaseTest {
                 .filter(cliente -> cliente.edad() > 40)
                 .count();
 
-        Logs.info("Mostrando cantidad en consola");
-        System.out.println(cantidad);
+        Logs.info("Validar que hayan 17 elementos");
+        assertEquals(17, cantidad, "No se tuvo la catidad esperada");
+
     }
 
     @Test
@@ -43,8 +46,11 @@ public class ClienteTests extends BaseTest {
                 .min(Comparator.comparing(Cliente::nombre))
                 .orElseThrow();
 
-        Logs.info("Mostrando al primer cliente en consola");
-        System.out.println(cliente);
+        final var clienteEsperado = new Cliente("USR-17", "ANGELIQUE", "DURGAN", 52,
+                "ANGELIQUE.DURGAN.31@HOTMAIL.COM", "SERBIA", "NORTHERN NEBRASKA ACADEMY");
+
+        Logs.info("Verificando el primer cliente");
+        assertEquals(clienteEsperado, cliente, "Cliente incorrecto");
     }
 
     @Test
